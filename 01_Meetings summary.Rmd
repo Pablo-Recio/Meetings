@@ -1,0 +1,125 @@
+---
+title: "Meetings summary"
+author: "Pablo Recio"
+date: "`r Sys.Date()`"
+output: 
+  bookdown::html_document2:
+    code_folding: hide
+    number_sections: no
+    toc: yes
+    toc_float: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
+options(digits=2)
+```
+
+## **Meeting 29/08**
+
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+* Personality tests: which four objects for neophobia/neophilia tests // How to divide the terrarium in squares  
+  <span style="color: darkblue;">
+  + Check for objects in the lab. Think if we should use prey (same as in  Ch 2) as the novel stimuli  
+  + To “square” the terraria we can use paper with glue underneath (we will have to buy it) or use double/side tape +sand on the edges (+ walls?) 
+  </span>
+* Spatial task: size of the terraria we can use for that // Should we build some kind of predator model instead of chasing them directly?  
+  <span style="color: darkblue;">
+  + Communal terraria can be used for the spatial learning task. Need to:  
+    - Check if the cameras can cover all the space  
+    - Measure them and buy more: reject shop (pick up)  
+  + Chasing the lizards may be fine but I must be blind to the treatment of the lizard; by, e.g., Dalton giving lizards new identities and keeping record of it  
+  </span>
+* Visual-reversal tasks: type of cardboards/stimuli employ: hue or colour? Should we use a spectrophotometer to estimate it?  
+  <span style="color: darkblue;">
+  + Use different colours instead of just different brightness  
+  + Measure with spectrophotometer (ask Megan/Martin/Kate Anderson) or buy specific paints that come with this type of information  
+  </span>
+* Cue perception tests: preys, type and how many // containers
+  <span style="color: darkblue;">
+  + Possible types of prey: flour beetles, seed beetles, wax worms, mealworms, etc.; several possibilities  
+  + Randomize and counterbalance order of presentation or keep the same order for every lizard  
+  </span>
+* Chemicals needed for Oroboros  
+  <span style="color: darkblue;">
+  + Review Krumschnabel et al., 2015 – Write Karine  
+  </span>
+* Chapter 3 – ideas HPA measures  
+  <span style="color: darkblue;">
+  + Measure only baseline levels (by terminal sampling) and relate to personality <span style="color: lightgreen;"> ACCEPTED  </span>
+  + Measure baseline and after-stressor in different individuals to see the effect of treatment and then compare these results to the effect of treatment on personality (is average “reactivity” different according to treatment? How does it relate with the effect of treatment on personality?) <span style="color: lightgreen;"> ACCEPTED  </span>  
+  + Employ CORT and see changes in behaviour; what the question will totally change <span style="color: darkred;"> DISCARDED  </span>
+  + See the effect of “chronic stress” and how is linked to personality. In this sense, I will measure personality of lizards first and then I will submit them to chronic stress for a period of time and see if there is an effect on body condition, growth, immune response?, or other traits. In this case, I will need to increase sample size. Basically, it would be similar to the CORT experiment I proposed at the beginning but without needing to validate the process (more realistic too?)  <span style="color: darkred;"> DISCARDED - Need for an amendment of Ethical permissions + body condition and growth may not change in lab conditions  </span> 
+  +	Forget about this experiment and do something like in Chapter 4 but with numerical discrimination instead of learning (is the use of numeric or continuous cues related to personality as is learning?). <span style="color: lightgreen;"> ACCEPTED - Can be done as an aside project (maybe another Chapter); develop </span> 
+  </span>
+</details>
+
+<details>
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Prepare Material list (review labs and see what we need)
+  + Prepare list of chemicals needed (WRITE KARINE)
+  + Check CCTV system if we aim to buy more
+* Brain anatomy (maps from Dan)
+  + See maps from Dan
+  + Ask him for a virtual meeting where I dissect a brain
+  + How to kill lizards?
+* Learn how to use Rmarkdown and git hub
+	+ Review codes Dan sent
+	+ Create new document with meetings info and organization, and Chapters
+* Start metanalysis
+	+ Create search terms
+	+ Familiarize with RAYYAN
+* Analyses learning
+	+ Create code
+</details>
+
+</details>
+
+## **Meeting 12/09**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Prepare Material list (review labs and see what we need)  
+  + ~~Prepare list of chemicals needed (WRITE KARINE)~~
+  + Check CCTV system if we aim to buy more
+* Brain anatomy (maps from Dan)
+  + See maps from Dan
+  + Ask him for a virtual meeting where I dissect a brain
+  + How to kill lizards?
+* Learn how to use Rmarkdown and git hub
+	+ Review codes Dan sent
+	+ Create new document with meetings info and organization, and Chapters
+* Start metanalysis
+	+ Create search terms
+	+ Familiarize with RAYYAN
+* Analyses learning
+	+ Create code
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Prepare terrariums for spatial tasks and do some trials
+* Practice brain dissections
+* Compiling cites
+* Start posters congresses
+
+</details>
+
+
+
+
+
