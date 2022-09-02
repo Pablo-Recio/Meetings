@@ -20,6 +20,7 @@ options(digits=2)
 
 <details>
   <summary style=font-size:16px>*Eggs incubation*</summary>
+
 * Containers - <span style="color: blue;"> Where to find them </span>  
 * Vermiculite or similar - <span style="color: blue;"> What and where to find it </span>  
 
@@ -27,6 +28,7 @@ options(digits=2)
 
 <details>
   <summary style=font-size:16px>*CORT supplementation*</summary>
+  
 * CORT - <span style="color: blue;"> Where to find it </span>  
 * Vehicle - <span style="color: blue;"> What and where to find it </span>  
 * Pippetes or similar to apply solution - <span style="color: blue;"> What and where to find them </span>  
@@ -36,6 +38,7 @@ options(digits=2)
 
 <details>
   <summary style=font-size:16px>*Eggs incubation*</summary>
+  
 * Incubators - <span style="color: blue;"> How to use them </span>  
 
 </details>
