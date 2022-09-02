@@ -1,0 +1,118 @@
+---
+title: "Material needed"
+author: "Pablo Recio"
+date: "`r Sys.Date()`"
+output: 
+  bookdown::html_document2:
+    number_sections: no
+    toc: yes
+    toc_float: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
+options(digits=2)
+```
+
+### **(Early) Environment manipulation**
+
+<details>
+  <summary style=font-size:16px>*Eggs incubation*</summary>
+* Containers - <span style="color: blue;"> Where to find them </span>  
+* Vermiculite or similar - <span style="color: blue;"> What and where to find it </span>  
+
+</details>
+
+<details>
+  <summary style=font-size:16px>*CORT supplementation*</summary>
+* CORT - <span style="color: blue;"> Where to find it </span>  
+* Vehicle - <span style="color: blue;"> What and where to find it </span>  
+* Pippetes or similar to apply solution - <span style="color: blue;"> What and where to find them </span>  
+* Gloves - <span style="color: blue;"> Where to find them </span>  
+
+</details>
+
+<details>
+  <summary style=font-size:16px>*Eggs incubation*</summary>
+* Incubators - <span style="color: blue;"> How to use them </span>  
+
+</details>
+
+### **Learning tasks**
+<details>
+  <summary style=font-size:16px>*Spatial learning task*</summary>
+  
+* Terraria - <span style="color: blue;"> How many do we need? Size? Should we by more? How many? </span>  
+<Span style="color: darkgreen;">
+  + We may need 100 terraria  
+  + ...  
+  + We have ..., but they may bee necessary for changing some; we should buy ...  
+</span>
+* Shelters - <span style="color: blue;"> Would it be OK if we use glasses for the central shelter? </span>  
+* Brush to chase them - <span style="color: blue;"> Do we have one? Where to find it </span>		
+* Cameras	- <span style="color: blue;"> How many do we need? Should we by more? How many? </span>  
+<Span style="color: darkgreen;">  
+  + Each camera covers 4 terraria, we need 20 approx 	
+  + There are 12 cameras already, we should by 8 more  
+</span>
+</details>
+
+<details>
+  <summary style=font-size:16px>*Visual-reversal learning task*</summary>
+
+* Terraria and cameras (Same as in Spatial learning task)  
+* Feeders	- <span style="color: blue;"> How many do we need? How to build them/do we have? Where? </span>   
+* Cardboard/material painted - <span style="color: blue;"> Decide what is better. Ask for spectophotometer if needed </span>   
+* Prey (reward) - <span style="color: blue;"> How many? Should we use live prey, like crickets, or canned prey (prey in cue perception tests)? </span>  
+<Span style="color: darkgreen;"> 
+  + We may need 3 per ind per trial, one of them being consumed = 5300 approx  
+</span>
+
+</details>
+
+### **Other cognitive tests**
+<details>
+  <summary style=font-size:16px>*Cue perception*</summary>
+
+
+	Terraria	100 approx
+Containers	Plastic glass or similar	2 per individual = 200 approx
+Containers	Filter paper	
+	Prey (canned food?)	3 types of prey per ind = 100 preys/type*
+	Cameras	1 per 4 terraria = 20 approx 
+
+</details>
+
+<details>
+  <summary style=font-size:16px>*Numerical abilities*</summary>
+
+
+</details>
+
+<details>
+  <summary style=font-size:16px>*Personality*</summary>
+
+
+</details>
+
+### **HPA axis response**
+<details>
+  <summary style=font-size:16px>*K*</summary>
+
+
+</details>
+
+### **Brain analyses**
+<details>
+  <summary style=font-size:16px>*K*</summary>
+
+
+</details>
+
+
+
+
+
+
