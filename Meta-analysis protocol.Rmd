@@ -18,12 +18,31 @@ editor_options:
 * Searchs made during 2022 in *Web of Science* and *Scopus*  
 * Terms obtained from Eyck et al. 2019 (*Biol. Rev*), and Lambert & Guillete 2021 (*Biol. Rev*):  
   + developmental, early-life, pre-natal/hatch  
-  + stress, maternal separation, handling, restrain, restriction, dessication, predator, hast hardening, nutrition, exposure  
+  + stress, maternal separation, handling, restrain, restriction, dessication, predator, hast hardening, nutrition, exposure, CORT, Glucocorticoids, Corticosterone  
   + cognition, learning, memory  
 <br>
 * Code for *Web of Science*:  
+  + <details> <summary style=font-size:12px>*Trial 1*</summary>  
+  
+    - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
+    - RESULTS: 55,579
+</details>  
 
+  + <details> <summary style=font-size:12px>*Trial 2*</summary>  
+  
+    - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
+    - RESULTS: 55,579
+</details>  
+
+  + <details>
+<summary style=font-size:12px>*Trial 3*</summary>  
+  
+    - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
+    - RESULTS: 55,579
+</details> 
+    
 * Code for *Scopus*:  
+
 </details>
 
 
