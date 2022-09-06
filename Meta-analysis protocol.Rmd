@@ -1,0 +1,60 @@
+---
+title: "Meta-analysis"
+author: "Pablo Recio"
+date: "`r Sys.Date()`"
+output: 
+    bookdown::html_document2: 
+    code_folding: hide
+    number_sections: no
+    toc: yes
+    toc_float: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+<details>
+  <summary style=font-size:16px>**Search terms**</summary>  
+
+* Searchs made during 2022 in *Web of Science* and *Scopus*  
+* Terms obtained from Eyck et al. 2019 (*Biol. Rev*), and Lambert & Guillete 2021 (*Biol. Rev*):  
+  + developmental, early-life, pre-natal/hatch  
+  + stress, maternal separation, handling, restrain, restriction, dessication, predator, hast hardening, nutrition, exposure  
+  + cognition, learning, memory  
+<br>
+* Code for *Web of Science*:  
+
+* Code for *Scopus*:  
+</details>
+
+
+<details>
+<summary style=font-size:16px>**Papers downloaded and avoidance of duplicated studies**</summary>
+
+
+
+</details>
+
+
+<details>
+<summary style=font-size:16px>**Rayyan process**</summary>
+
+
+
+</details>
+
+
+<details>
+<summary style=font-size:16px>**How to extract effect size**</summary>
+
+
+
+</details>
+
+
+<details>
+<summary style=font-size:16px>**Analyses**</summary>
+
+
+
+</details>
+
