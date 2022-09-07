@@ -22,7 +22,7 @@ editor_options:
   + cognition, learning, memory  
 <br>
 * Code for *Web of Science*:  
-  + <details> <summary style=font-size:12px>*Trial 1*</summary>  
+<details> <summary style=font-size:12px>*Trial 1*</summary>  
   
     - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
     - RESULTS: 55,579
