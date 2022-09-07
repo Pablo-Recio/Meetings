@@ -13,49 +13,50 @@ editor_options:
 ---
 
 <details>
-  <summary style=font-size:16px>**Search terms**</summary>  
+  <summary style=font-size:20px>**Search terms**</summary>  
 
 * Searchs made during 2022 in *Web of Science* and *Scopus*  
-* Terms obtained from Eyck et al. 2019 (*Biol. Rev*), and Lambert & Guillete 2021 (*Biol. Rev*):  
+* Initial terms obtained from Eyck et al. 2019 (*Biol. Rev*), and Lambert & Guillete 2021 (*Biol. Rev*):  
   + developmental, early-life, pre-natal/hatch  
   + stress, maternal separation, handling, restrain, restriction, dessication, predator, hast hardening, nutrition, exposure, CORT, Glucocorticoids, Corticosterone  
   + cognition, learning, memory  
-<br>
-* Code for *Web of Science*:  
-<details> <summary style=font-size:12px>*Trial 1*</summary>  
+
+<font size=4.5>Code for *Web of Science*: </font>  
+
+<details>
+  <summary style=font-size:15px>*Trial 1*</summary>  
   
-    - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
-    - RESULTS: 55,579
+  - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR Glucocorticoid* OR Cort* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
+ - RESULTS: **55,602**
 </details>  
 
-  + <details> <summary style=font-size:12px>*Trial 2*</summary>  
+<details>
+  <summary style=font-size:15px>*Trial 2*</summary>  
   
-    - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
-    - RESULTS: 55,579
+  - CODE: (eggs OR mother OR maternal OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR Glucocorticoid* OR Cort* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant* OR therapy OR trauma* OR emotion* OR clinic* OR plant*)   
+ - RESULTS: **3.214**  
 </details>  
 
-  + <details>
-<summary style=font-size:12px>*Trial 3*</summary>  
+<font size=4.5>Code for *Scopus*: </font>  
+
+<details>
+  <summary style=font-size:15px>*Trial 1*</summary>  
   
-    - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR CORT OR Glucocorticoids OR Corti* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
-    - RESULTS: 55,579
+  - CODE:  
+ - RESULTS:
+</details>  
+
+<details>
+  <summary style=font-size:15px>*Trial 2*</summary>  
+  
+  - CODE:  
+ - RESULTS:  
 </details> 
-    
-* Code for *Scopus*:  
 
 </details>
 
-
 <details>
-<summary style=font-size:16px>**Papers downloaded and avoidance of duplicated studies**</summary>
-
-
-
-</details>
-
-
-<details>
-<summary style=font-size:16px>**Rayyan process**</summary>
+<summary style=font-size:20px>**Papers downloaded and avoidance of duplicated studies**</summary>
 
 
 
@@ -63,7 +64,7 @@ editor_options:
 
 
 <details>
-<summary style=font-size:16px>**How to extract effect size**</summary>
+<summary style=font-size:20px>**Rayyan process**</summary>
 
 
 
@@ -71,7 +72,15 @@ editor_options:
 
 
 <details>
-<summary style=font-size:16px>**Analyses**</summary>
+<summary style=font-size:20px>**How to extract effect size**</summary>
+
+
+
+</details>
+
+
+<details>
+<summary style=font-size:20px>**Analyses**</summary>
 
 
 
