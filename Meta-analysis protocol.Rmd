@@ -5,9 +5,9 @@ date: "`r Sys.Date()`"
 output: 
     bookdown::html_document2: 
     code_folding: hide
-    number_sections: no
     toc: yes
     toc_float: yes
+    number_sections: no
 editor_options: 
   chunk_output_type: console
 ---
@@ -27,14 +27,14 @@ editor_options:
   <summary style=font-size:15px>*Trial 1*</summary>  
   
   - CODE: (development* OR early-life OR early life OR pre-natal* OR pre natal* pre-hatch* OR pre hatch* ) AND (stress* OR maternal separation OR handl* OR restr* OR dessicat* OR predat* OR nutrit* OR  expos* OR Glucocorticoid* OR Cort* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant*)  
- - RESULTS: **55.602** papers  
+ - RESULTS: **55,602** papers  
 </details>  
 
 <details>
   <summary style=font-size:15px>*Trial 2*</summary>  
   
   - CODE: (eggs OR mother OR maternal OR early-life OR early life OR pre-natal* OR pre natal* OR pre-hatch* OR pre hatch* ) AND (stress* OR Glucocorticoid* OR Cort* ) AND (cognit* OR learn* OR memory) NOT (human* OR child* OR infant* OR therapy OR trauma* OR emotion* OR clinic* OR plant*)   
- - RESULTS: **3.214** papers  
+ - RESULTS: **3,214** papers  
 </details>  
 
 <font size=4.5>Code for *Scopus*: </font>  
@@ -47,7 +47,7 @@ editor_options:
     Search 2: TITLE-ABS-KEY(stress* OR Glucocorticoid* OR Cort* AND NOT (human* OR child* OR infant* OR therapy OR trauma* OR emotion* OR clinic* OR plant*))  
     Search 3: TITLE-ABS-KEY(cognit* OR learn* OR memory AND NOT (human* OR child* OR infant* OR therapy OR trauma* OR emotion* OR clinic* OR plant*))  
     Finally, I combined all the searches (Search > Search history > Combine queries) 
- - RESULTS: **1.528** papers  
+ - RESULTS: **1,528** papers  
 </details>  
 
 <details>
@@ -63,9 +63,9 @@ editor_options:
 <details>
 <summary style=font-size:20px>**Papers downloaded and duplicated studies**</summary>
 
-  * After obtaining all the references, I created a library on EndNote 20 (*Meta-analysis.enl*), combine all the references in one list and get rid of duplicates (Library>Fin Duplicates).  
+  * After obtaining all the references, I created a library on EndNote 20 (*Meta-analysis.enl*), combined all the references in one list and got rid of duplicates (Library>Find Duplicates).  
   Total number of duplicates: 931  
-    - RESULTS: **4288** papers  
+    - RESULTS: **4,288** papers  
 
 </details>
 
@@ -75,7 +75,9 @@ editor_options:
 
 <details>
   <summary style=font-size:15px> How to import a library from NoteEnd </summary>  
-  
+
+  1. Export file from EndNote selecting **Output style 'Refman (RIS) Export'**
+  2. Import to RAYYAN by using command **Select files**
  
 </details>  
 
@@ -114,4 +116,7 @@ editor_options:
 
 
 </details>
+
+
+
 
