@@ -86,7 +86,8 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
-* Prepare Material list (review labs and see what we need)  
+* Prepare Material list  
+  + ~~Review labs and see what we need~~  
   + ~~Prepare list of chemicals needed (WRITE KARINE)~~
   + Check CCTV system if we aim to buy more
 * Brain anatomy (maps from Dan)
