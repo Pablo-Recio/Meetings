@@ -94,11 +94,11 @@ options(digits=2)
   + Ask him for a virtual meeting where I dissect a brain
   + How to kill lizards?
 * Learn how to use Rmarkdown and git hub
-	+ Review codes Dan sent
-	+ Create new document with meetings info and organization, and Chapters
+	+ ~~Review codes Dan sent~~
+	+ Create new ~~document with meetings info and organization~~, and Chapters
 * Start metanalysis
-	+ Create search terms
-	+ Familiarize with RAYYAN
+	+ ~~Create search terms~~
+	+ ~~Familiarize with RAYYAN~~
 * Analyses learning
 	+ Create code
 </details>
