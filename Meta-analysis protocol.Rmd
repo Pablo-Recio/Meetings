@@ -74,25 +74,25 @@ editor_options:
 <summary style=font-size:20px>**Rayyan process**</summary>
 
 <details>
-  <summary style=font-size:16px> How to import a library from NoteEnd </summary>  
+  <summary style=font-size:15px> How to import a library from NoteEnd </summary>  
   
  
 </details>  
 
 <details>
-  <summary style=font-size:16px> How to share the RAYYAN library </summary>  
+  <summary style=font-size:15px> How to share the RAYYAN library </summary>  
   
  
 </details>
 
 <details>
-  <summary style=font-size:16px> How to get rid of papers </summary>  
+  <summary style=font-size:15px> How to get rid of papers </summary>  
   
  
 </details>
 
 <details>
-  <summary style=font-size:16px> FINAL RESULTS </summary>  
+  <summary style=font-size:15px> FINAL RESULTS </summary>  
   
  
 </details>
