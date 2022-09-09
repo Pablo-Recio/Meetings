@@ -67,7 +67,7 @@ options(digits=2)
   + Check CCTV system if we aim to buy more
 * Brain anatomy (maps from Dan)
   + See maps from Dan
-  + Ask him for a virtual meeting where I dissect a brain
+  + Ask him for a virtual meeting where & dissect a brain
   + How to kill lizards?
 * Learn how to use Rmarkdown and git hub
 	+ Review codes Dan sent
@@ -91,8 +91,8 @@ options(digits=2)
   + ~~Prepare list of chemicals needed (WRITE KARINE)~~
   + Check CCTV system if we aim to buy more
 * Brain anatomy (maps from Dan)
-  + See maps from Dan
-  + Ask him for a virtual meeting where I dissect a brain
+  + ~~See maps from Dan~~
+  + Ask him for a virtual meeting where & dissect a brain
   + How to kill lizards?
 * Learn how to use Rmarkdown and git hub
 	+ ~~Review codes Dan sent~~
@@ -114,10 +114,21 @@ options(digits=2)
 
   <summary style=font-size:16px>*What to do next two weeks*</summary>
 
+* Prepare Material list  
+  + Check CCTV system if we aim to buy more
+  + 
+* Brain anatomy (maps from Dan)
+  + Ask him for a virtual meeting where & dissect a brain
+  + How to kill lizards?
+* Analyses learning
+	+ Create code
 * Prepare terrariums for spatial tasks and do some trials
 * Practice brain dissections
 * Compiling cites
-* Start posters congresses
+* Meta-analysis
+  + Refine search
+  + Create decision tree
+  + Check 100 papers to see how many are usefull (RAYYAN)
 
 </details>
 
