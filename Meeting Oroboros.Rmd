@@ -1,0 +1,39 @@
+---
+title: "Meeting Karine summary"
+author: "Pablo Recio"
+date: "09/09/2022"
+output: 
+  bookdown::html_document2:
+    code_folding: hide
+    number_sections: no
+    toc: yes
+    toc_float: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+## Summary:
+
+  1) We will NOT be able to run ATP/O and ROS at the same time. We can, however, split the tissue with 1/2 going into each chamber of a machine and measure ATP/O AND ROS/O side-by-side (possible with brain?)  
+  2) Temperatures of tissues. We are all converging at running tissue at a single optimal (e.g., 28-30) or slightly high temperature (e.g. 32) for the main questions looking at treatment effects and experiments looking at cross-tissue comparisons  
+  3) Tissue types. Pablo, clearly the brain only. Dalton, liver / heart muscle? We’ll work that out still  
+  4) Probably need 2-3 weeks of practice. Good for technical repeatability, optimising assays etc  
+  5) 3 ways to prepare tissue: 1) isolate mitochondria (best); 2) permeabilised cells (2nd best); 3) tissue homoenegenate (least best for what we want, at least ROS). Time is important. 1) takes 2-3 hours; 2) takes ~50 minutes; 3) 5-10 minutes  
+  6) All tissues on a single lizard done same day (mitochondria die, duh). 
+  7) All tissues on ice and placed in cold buffer ASAP! We need to record time of animal health and when the tissue hits the buffer and then when assay is run. 
+  8) If tissue weight is too low than we will need to pool, but less than ideal so lets try and avoid if we can.
+
+## There are three experiments we (I’m? Envisaging): 
+
+  1) CORT/TEMP effects on brain mito function and ROS @ 28-30 C (pick one temp in range)  
+  2) CORT/TEMP effects on liver mito function and ROS @ 28-32? C (pick one temp in range)  
+  3) Normal control animal sample at 28C measure liver, heart, tail, blood, brain(?). This one really is just interested in cross tissue comparisons and will help inform on other experiments and help decide on future experiments  
+
+## Actionable's / To Do’s:
+
+  1) Work out details of these experiments together. Get Ondi to check - Dan, Dalton, Pablo  
+  2) Contact Oro people and get 0.5 ml glass chambers (ASAP) - Dan
+  3) Practice dissections and get wet weights of tissue for planning - Dan, Pablo, Dalton
+  4) Attend practice Oroboros runs remotely with Karine (November/December) - Dan and others
+  
+  

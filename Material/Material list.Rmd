@@ -49,17 +49,16 @@ options(digits=2)
   
 * Terraria - <span style="color: blue;"> How many do we need? Size? Should we by more? How many? </span>  
 <Span style="color: darkgreen;">
-  + We may need 100 terraria  
-  + ...  
-  + We have ..., but they may bee necessary for changing some; we should buy ...  
+  + We may need 100 terraria:  
+  ![](./Measures terraria.png){height="250px" width="400px"}
 </span>
-* Shelters - <span style="color: blue;"> Would it be OK if we use glasses for the central shelter? </span>  
-* Brush to chase them - <span style="color: blue;"> Do we have one? Where to find it </span>		
-* Cameras	- <span style="color: blue;"> How many do we need? Should we by more? How many? </span>  
+* Cameras	- <span style="color: blue;"> How many do we need? Should we by more? How many? **Where can we place them?** </span>  
 <Span style="color: darkgreen;">  
   + Each camera covers 4 terraria, we need 20 approx 	
   + There are 12 cameras already, we should by 8 more  
 </span>
+* Shelters - <span style="color: blue;"> Would it be OK if we use glasses for the central shelter? </span>  
+* Brush to chase them - <span style="color: blue;"> Do we have one? Where to find it </span>		
 </details>
 
 <details>
@@ -79,37 +78,67 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Cue perception*</summary>
 
-
-	Terraria	100 approx
-Containers	Plastic glass or similar	2 per individual = 200 approx
-Containers	Filter paper	
-	Prey (canned food?)	3 types of prey per ind = 100 preys/type*
-	Cameras	1 per 4 terraria = 20 approx 
+* Terraria and cameras (Same as in Spatial learning task)  
+* Containers - <span style="color: blue;"> What to use? How many do we need? Where to find them? </span>	 
+<span style="color: darkgreen">
+  + Plastic glass or similar	2 per individual = 200 approx
+  + Filter paper	
+</span>
+* Prey - <span style="color: blue;"> Canned food or live prey? How many needed? </span>
+<span style="color: darkgreen">
+  + 3 types of prey per ind = 100 preys/type  
+  + List of canned food available (Lab in Robertson Building 3rd green drawer under the table in the middle of the room):  
+    -  Snails [6 cans]  
+    - XL crickets [1 can]  
+    - Grasshoppers [1 can]  
+    - XL Grasshoppers [1 can]  
+    - Fish [3 cans]  
+    - Silkworms [1 can]  
+    - Shrimps [1 can]  
+    - Artemia [1 can]  
+    - Mealworms [3 cans]  
+</span> 
 
 </details>
 
 <details>
   <summary style=font-size:16px>*Numerical abilities*</summary>
 
-
+* Terraria and cameras (Same as in Spatial learning task)  
+* "Prey" - <span style="color: blue"> Could we use a kind of porridge made of flour and crickets or similar and shaped into small balls? That way we would be able to control continuous variables (volue, area, etc)
+</span>
 </details>
 
 <details>
   <summary style=font-size:16px>*Personality*</summary>
 
-
+* Terraria and cameras (Same as in Spatial learning task)  
+* Refuges for *boldness antipredatory* trials - <span style="color: blue"> Where to find:
+  + Shelters (What to use)
+  + Ice for "cold" refuge
+</span>
+* Objects for *neophobia/neophilia* trials :
+<span style="color: darkgreen">
+  + List of objects (in Robertson building lab, 2nd grey drawer between the fridges):
+    - Orange earplugs - 2cm lenght
+    - Dice with pink glue square - 1.8cm side approx
+    - Red (3cm length), yellow (5cm), and/or white (6.7cm) plastic pin-like objects
+    - Transparent marbles (1-1.5cm diameter) with red, blue and yellow feathers inside
+    - Yellow and pink plasteline
+  </span>
+* Filter paper, double-sided tape, sand or similar, cardboard or similar (FOR WALLS?) - <span style="color: blue"> Where to find all. Buy more? </span>
 </details>
 
 ### **HPA axis response**
 <details>
-  <summary style=font-size:16px>*K*</summary>
+  <summary style=font-size:16px>*-*</summary>
 
 
 </details>
 
 ### **Brain analyses**
 <details>
-  <summary style=font-size:16px>*K*</summary>
+  <summary style=font-size:16px>*-*</summary>
 
 
 </details>

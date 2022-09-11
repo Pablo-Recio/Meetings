@@ -88,7 +88,7 @@ options(digits=2)
 
 * Prepare Material list  
   + ~~Review labs and see what we need~~  
-  + ~~Prepare list of chemicals needed (WRITE KARINE)~~
+  + ~~Prepare list of chemicals needed ([WRITE KARINE](file:///Users/u7409838/Library/CloudStorage/OneDrive-AustralianNationalUniversity/GitHub/Thesis/Meetings/Meeting-Oroboros.html))~~
   + Check CCTV system if we aim to buy more
 * Brain anatomy (maps from Dan)
   + ~~See maps from Dan~~
@@ -107,7 +107,15 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
-* [Material needed](file:///Users/u7409838/Library/CloudStorage/OneDrive-AustralianNationalUniversity/GitHub/Thesis/Meetings/Material-list.html)
+* [Material needed](file:///Users/u7409838/Library/CloudStorage/OneDrive-AustralianNationalUniversity/GitHub/Thesis/Meetings/Material/Material-list.html)  
+* Discuss decision tree  
+* Discuss Oroboros methods based on the assumption that sample is not going to be enough  
+  + If each region weights enough:  
+    - Half of the lizards tested for respiration and ATP synthesis, half for ROS (one machine per lizard, each chamber per each region)  
+    - For each lizard, we will measure ROS of one region and ATP of the other in a randomize way  
+  + If weight per regions is not enough:
+    - Pool different regions and measure both respiration and ROS - 3 lizard per measurement = 24 lizards per treatment so we obtain 8 measures of ROS and 8 of respiration per treatment
+    - Find other ways to measure ROS and use Oroboros only for respiration (homogenates of tissue may involve less mitochondrial loss)
 </details>
 
 <details>
@@ -115,24 +123,25 @@ options(digits=2)
   <summary style=font-size:16px>*What to do next two weeks*</summary>
 
 * Prepare Material list  
-  + Check CCTV system if we aim to buy more
-  + 
-* Brain anatomy (maps from Dan)
-  + Ask him for a virtual meeting where & dissect a brain
-  + How to kill lizards?
-* Analyses learning
-	+ Create code
-* Prepare terrariums for spatial tasks and do some trials
-* Practice brain dissections
-* Compiling cites
-* Meta-analysis
-  + Refine search
-  + Create decision tree
-  + Check 100 papers to see how many are usefull (RAYYAN)
+  + Check CCTV system if we aim to buy more  
+  + Check material necessary for brain dissection and HPA axis reactivity
+* Prepare terrariums for spatial tasks and do some trials  
+* Brain anatomy (maps from Dan)  
+  + Ask him for a virtual meeting where & dissect a brain  
+  + How to kill lizards?  
+* Analyses learning  
+	+ Create code  
+* Check studies using Oroboros in lizards
+* Learn how to use Rmarkdown and git hub
+	+ Create new document with Chapters and Compiled references  
+* Meta-analysis  
+  + Refine search  
+  + Decision tree  
+  + Check 100 papers to see how many are useful (RAYYAN)  
 
 </details>
 
-
+## **Meeting 26/09**
 
 
 
