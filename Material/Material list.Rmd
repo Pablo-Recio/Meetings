@@ -21,9 +21,11 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Eggs incubation*</summary>
 
-* Containers - <span style="color: blue;"> Where to find them </span>  
+* Containers - <span style="color: blue"> Where to find them </span>  
 * Vermiculite or similar - <span style="color: blue;"> What and where to find it </span>  
-
+<span style+"color: darkgreen">
+  + Both vermiculite and containers are in Wes Withen lab, in the incubators room
+</span>
 </details>
 
 <details>
@@ -33,7 +35,9 @@ options(digits=2)
 * Vehicle - <span style="color: blue;"> What and where to find it </span>  
 * Pippetes or similar to apply solution - <span style="color: blue;"> What and where to find them </span>  
 * Gloves - <span style="color: blue;"> Where to find them </span>  
-
+<span style+"color: darkgreen">
+  + All material found in Wes Withen
+</span>
 </details>
 
 <details>
@@ -53,23 +57,31 @@ options(digits=2)
   ![](./Measures terraria.png){height="250px" width="400px"}
 </span>
 * Cameras	- <span style="color: blue;"> How many do we need? Should we by more? How many? **Where can we place them?** </span>  
-<Span style="color: darkgreen;">  
+<span style="color: darkgreen;">  
   + Each camera covers 4 terraria, we need 20 approx 	
-  + There are 12 cameras already, we should by 8 more  
+  + There are 12 cameras already, we **buy 8 more (2 CCTV systems)*  
+  + CCTV systems can be placed in incubators' room
 </span>
 * Shelters - <span style="color: blue;"> Would it be OK if we use glasses for the central shelter? </span>  
 * Brush to chase them - <span style="color: blue;"> Do we have one? Where to find it </span>		
+<span style="color: darkgreen">
+  + Buy one  
+</span>
 </details>
 
 <details>
   <summary style=font-size:16px>*Visual-reversal learning task*</summary>
 
 * Terraria and cameras (Same as in Spatial learning task)  
-* Feeders	- <span style="color: blue;"> How many do we need? How to build them/do we have? Where? </span>   
+* Feeders	- <span style="color: blue;"> How many do we need? How to build them/do we have? Where? </span>  
+<span style="color: darkgreen">
+  + There are painted blocks somewhere in the lab (search them), we may need more and a third colour  
+</span>
 * Cardboard/material painted - <span style="color: blue;"> Decide what is better. Ask for spectophotometer if needed </span>   
 * Prey (reward) - <span style="color: blue;"> How many? Should we use live prey, like crickets, or canned prey (prey in cue perception tests)? </span>  
 <Span style="color: darkgreen;"> 
   + We may need 3 per ind per trial, one of them being consumed = 5300 approx  
+  + Better use live prey - **Mealworms** instead of crickets
 </span>
 
 </details>
@@ -88,7 +100,7 @@ options(digits=2)
 <span style="color: darkgreen">
   + 3 types of prey per ind = 100 preys/type  
   + List of canned food available (Lab in Robertson Building 3rd green drawer under the table in the middle of the room):  
-    -  Snails [6 cans]  
+    - Snails [6 cans]  
     - XL crickets [1 can]  
     - Grasshoppers [1 can]  
     - XL Grasshoppers [1 can]  
@@ -106,6 +118,9 @@ options(digits=2)
 
 * Terraria and cameras (Same as in Spatial learning task)  
 * "Prey" - <span style="color: blue"> Could we use a kind of porridge made of flour and crickets or similar and shaped into small balls? That way we would be able to control continuous variables (volue, area, etc)
+</span>
+<span style="color: darkgreen">
+  + Porridge balls can work, but they need to be trained first  
 </span>
 </details>
 
