@@ -88,9 +88,22 @@ editor_options:
 </details>
 
 <details>
-  <summary style=font-size:15px> How to get rid of papers </summary>  
-* Selection criteria - ![Decision tree](./Decision_tree.png)
- 
+  <summary style=font-size:15px> Screening papers </summary>  
+
+* Selection criteria: ![Decision tree](./Decision_tree.png)
+  
+* Concepts in decision tree:  
+  + **Definitions and examples of CORT and stressors:**
+    - Other synonyms of CORT are Corticosterone, Cortisol, Glucocorticoids (GCs)  
+    - Some procedures considered stressors in rats: learned helplessness, the forced swimming test, the tail suspension test, isolation, chronic mild stress, and sleep deprivation  
+    - We will consider a stressor anything else that is stated as a stressor directly by the authors  
+    - If there is a treatment but we do not know if it can be stressful or not, then is a "Don't know" (see decision tree)  
+  + **Definitions and examples of learning:**  
+    - Memory or cognition can be used as synonyms  
+    - Spatial or associative tasks can be synonyms of learning  
+    - ALso, another learning test usually used with rats is the Morris-water task/water task  
+  + **What is a "mutant strain" of mice/rats?**  
+    - In some papers, they use laboratory reared strains of mice or rats that may be more sensitive to CORT or the stressor used; unless they also use a 'wild-type' mice, we will exclude those papers  
 </details>
 
 <details>
