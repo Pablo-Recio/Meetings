@@ -89,7 +89,7 @@ editor_options:
 
 <details>
   <summary style=font-size:15px> How to get rid of papers </summary>  
-  
+* Selection criteria - ![Decision tree](./Decision_tree.png)
  
 </details>
 
