@@ -169,10 +169,10 @@ options(digits=2)
 * Learn how to use Rmarkdown and git hub
 	+ Create new document with Chapters and Compiled references  
 * Meta-analysis  
-  + Refine search  
+  + ~~Refine search~~  
   + Decision tree
-    - 
-    - Define learning
+    - ~~Refine decision tree~~
+    - ~~Define learning and other concepts~~
   + Check 100 papers to see how many are useful (RAYYAN)  
 </details>
 
@@ -199,9 +199,7 @@ options(digits=2)
 * Learn how to use Rmarkdown and git hub
 	+ Create new document with Chapters and Compiled references  
 * Meta-analysis  
-  + Refine search  
-  + Decision tree  
-  + Check 100 papers to see how many are useful (RAYYAN)  
+  + Share database with other collaborators and see consistency in 100 papers
 </details>
 
 </details>
