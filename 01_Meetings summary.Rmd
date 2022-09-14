@@ -161,19 +161,19 @@ options(digits=2)
   + Check material necessary for brain dissection and HPA axis reactivity
 * Prepare terrariums for spatial tasks and do some trials  
 * Brain anatomy (maps from Dan)  
-  + Ask him for a virtual meeting where & dissect a brain  
-  + How to kill lizards?  
+  + ~~Ask him for a virtual meeting where & dissect a brain~~  
+  + ~~How to kill lizards?~~ - <span style="color: blue"> Sodium pentobarbital would work with lizards as it will not cross the blood-brain barrier </span>  
 * Analyses learning  
 	+ Create code  
-* Check studies using Oroboros in lizards
+* ~~Check studies using Oroboros in lizards~~
 * Learn how to use Rmarkdown and git hub
 	+ Create new document with Chapters and Compiled references  
 * Meta-analysis  
   + ~~Refine search~~  
-  + Decision tree
+  + ~~Decision tree~~
     - ~~Refine decision tree~~
     - ~~Define learning and other concepts~~
-  + Check 100 papers to see how many are useful (RAYYAN)  
+  + ~~Check 100 papers to see how many are useful (RAYYAN)~~  
 </details>
 
 <details>
