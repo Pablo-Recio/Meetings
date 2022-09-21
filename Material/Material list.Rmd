@@ -153,12 +153,26 @@ options(digits=2)
 
 ### **Brain analyses**
 <details>
-  <summary style=font-size:16px>*-*</summary>
+  <summary style=font-size:16px>*Dissection material*</summary>
 
+  * Scissors <span style="color: green"> V </span>  
+  * Dissection scope <span style="color: red"> Get one to Wes Withen (for now) </span>  
+  * Silicone pad <span style="color: green"> V </span>  
+  * Tweezers (see size) <span style="color: green"> V </span>  
+  * Dissection pins <span style="color: red"> Buy </span>  
+  * 2 Tweezers (see size) <span style="color: red"> Buy one more </span>  
+  * Scapel <span style="color: green"> V </span>   
+  * Blades <span style="color: red"> Buy more on the internet </span>   
+  * Dissection scissors <span style="color: green"> V </span>   
+  * Spatule <span style="color: red"> Buy one </span>  
 
 </details>
 
+<details>
+  <summary style=font-size:16px>*_*</summary>
 
+
+</details>
 
 
 
