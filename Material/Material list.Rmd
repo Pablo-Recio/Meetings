@@ -23,7 +23,7 @@ options(digits=2)
 
 * Containers - <span style="color: blue"> Where to find them </span>  
 * Vermiculite or similar - <span style="color: blue;"> What and where to find it </span>  
-<span style+"color: darkgreen">
+<span style="color: darkgreen">
   + Both vermiculite and containers are in Wes Withen lab, in the incubators room
 </span>
 </details>
@@ -35,7 +35,7 @@ options(digits=2)
 * Vehicle - <span style="color: blue;"> What and where to find it </span>  
 * Pippetes or similar to apply solution - <span style="color: blue;"> What and where to find them </span>  
 * Gloves - <span style="color: blue;"> Where to find them </span>  
-<span style+"color: darkgreen">
+<span style="color: darkgreen">
   + All material found in Wes Withen
 </span>
 </details>
@@ -75,9 +75,9 @@ options(digits=2)
 * Terraria and cameras (Same as in Spatial learning task)  
 * Feeders	- <span style="color: blue;"> How many do we need? How to build them/do we have? Where? </span>  
 <span style="color: darkgreen">
-  + There are painted blocks somewhere in the lab (search them), we may need more and a third colour  
+  + There are painted blocks somewhere in the lab (search them), we may need more and a third colour
+  + We will need 96 blocks per color - 288 in total 
 </span>
-* Cardboard/material painted - <span style="color: blue;"> Decide what is better. Ask for spectophotometer if needed </span>   
 * Prey (reward) - <span style="color: blue;"> How many? Should we use live prey, like crickets, or canned prey (prey in cue perception tests)? </span>  
 <Span style="color: darkgreen;"> 
   + We may need 3 per ind per trial, one of them being consumed = 5300 approx  
@@ -93,7 +93,7 @@ options(digits=2)
 * Terraria and cameras (Same as in Spatial learning task)  
 * Containers - <span style="color: blue;"> What to use? How many do we need? Where to find them? </span>	 
 <span style="color: darkgreen">
-  + Plastic glass or similar	2 per individual = 200 approx
+  + Plastic glass or similar	2 per individual = 200 approx - **Found at *EcolPhysiol Lab* in Robertson Building**
   + Filter paper	
 </span>
 * Prey - <span style="color: blue;"> Canned food or live prey? How many needed? </span>
@@ -169,7 +169,7 @@ options(digits=2)
 </details>
 
 <details>
-  <summary style=font-size:16px>*_*</summary>
+  <summary style=font-size:16px>*-*</summary>
 
 
 </details>

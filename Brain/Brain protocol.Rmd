@@ -2,13 +2,13 @@
 title: "Brain protocol"
 author: "Pablo Recio"
 date: "21/09/2022"
-output: pdf_document
+output:
+  bookdown::html_document2:
+    number_sections: no
+    toc: yes
+    toc_float: yes
 editor_options:
   chunk_output_type: console
-bookdown::html_document2:
-  number_sections: no
-  toc: yes
-  toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
 options(digits=2)
 ```
 
-## *Euthanasia*
+### *Euthanasia*
 
   1) Pick more than 1cc of Sodium pentobarbital (in 'tool kit')
   2) Pick the lizard
@@ -25,7 +25,7 @@ options(digits=2)
   5) *Always collect the identity of the lizard and write it down in the database*
 
 
-## *Dissection material*
+### *Dissection material*
 
   * Scissors  
   * Dissection scope  
@@ -38,7 +38,7 @@ options(digits=2)
   * Dissection scissors  
   * Spatule  
   
-## *Procedure*
+### *Procedure*
   1) **Cut the head of the lizard after the ears**
   2) **Pin the lizard** (see Fig 1):  
     - Avoid the skull by pinching on nostrils, eyes and "cheeks" (before the tympanic membrane)  
@@ -85,3 +85,10 @@ options(digits=2)
 
 </center>
 
+### *How to use Megan's balance*
+  1) Swicht it on
+  2) Open the chamber (*)
+  3) Introduce the container (filter paper or similar)
+  4) Tare
+  5) Close the chamber (*)
+  6) Wait
