@@ -157,7 +157,7 @@ options(digits=2)
 
 * Prepare [Material list]()  
   + ~~Check CCTV system if we aim to buy more~~  
-  + Prepare a budget and buy anything necessary
+  + ~~Prepare a budget~~ and buy anything necessary
   + Check ~~material necessary for brain dissection~~ and HPA axis reactivity
 * Prepare terrariums for spatial tasks and do some trials  
 * Brain anatomy (maps from Dan)  
@@ -179,6 +179,7 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
+* Discuss budget and buy material
 * Material needed for measuring mass of different regions in the brain:
   + Dissection material (ready/almost ready)
   + Dissection scope (already in Megan's lab)
