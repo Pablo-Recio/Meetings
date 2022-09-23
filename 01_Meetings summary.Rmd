@@ -157,7 +157,8 @@ options(digits=2)
 
 * Prepare [Material list]()  
   + ~~Check CCTV system if we aim to buy more~~  
-  + ~~Prepare a budget~~ and buy anything necessary
+  + ~~Prepare a budget~~ and buy anything necessary  
+    <span style="color: green"> - Already bought: brush (2), Double-side tape (600 m) and normal tape (600 m) from Riotsotores; and contacted with National Storages for the [terraria](https://nationalstorage.com.au/online-shop/product/35l-plastic-storage-container-qty-2/) </span>  
   + Check ~~material necessary for brain dissection~~ and HPA axis reactivity
 * Prepare terrariums for spatial tasks and do some trials  
 * Brain anatomy (maps from Dan)  
@@ -179,7 +180,7 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
-* Discuss budget and buy material
+* ~~Discuss budget and buy material~~
 * Material needed for measuring mass of different regions in the brain:
   + Dissection material (ready/almost ready)
   + Dissection scope (already in Megan's lab)
@@ -200,8 +201,7 @@ options(digits=2)
   + Check material necessary for HPA axis reactivity (Ondi)  
   + Get ready the material for measuring brain mass  
 * Meta-analysis  
-  + Share database with other collaborators and see consistency in 100 papers  
-* Practice brain dissections and help obtaining blood samples for CORT analyses  
+  + Share database with other collaborators and see consistency in 100 papers * Practice brain dissections and help obtaining blood samples for CORT analyses  
 * Learn how to use Rmarkdown and git hub  
 	+ Create new document with Chapters and Compiled references  
 * Check studies using Oroboros in zebra fish  

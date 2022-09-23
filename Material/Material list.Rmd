@@ -24,7 +24,8 @@ options(digits=2)
 * Containers - <span style="color: blue"> Where to find them </span>  
 * Vermiculite or similar - <span style="color: blue;"> What and where to find it </span>  
 <span style="color: darkgreen">
-  + Both vermiculite and containers are in Wes Withen lab, in the incubators room
+  + Both vermiculite and containers are in Wes Withen lab, in the incubators room  
+  + Bought more containers from Coles (arriving on 26/09)
 </span>
 </details>
 
@@ -65,7 +66,7 @@ options(digits=2)
 * Shelters - <span style="color: blue;"> Would it be OK if we use glasses for the central shelter? </span>  
 * Brush to chase them - <span style="color: blue;"> Do we have one? Where to find it </span>		
 <span style="color: darkgreen">
-  + Buy one  
+  + 2 bought from Riotstores on 23/09/2022); left in *EcolPhysiol Lab* with the personality objects  
 </span>
 </details>
 
@@ -108,7 +109,8 @@ options(digits=2)
     - Silkworms [1 can]  
     - Shrimps [1 can]  
     - Artemia [1 can]  
-    - Mealworms [3 cans]  
+    - Mealworms [3 cans] 
+  + **Buy 30 cans of Mealworms, Crickets, Grashoppers, and Silkworms**
 </span> 
 
 </details>
@@ -128,7 +130,7 @@ options(digits=2)
   <summary style=font-size:16px>*Personality*</summary>
 
 * Terraria and cameras (Same as in Spatial learning task)  
-* Refuges for *boldness antipredatory* trials - <span style="color: blue"> Where to find:
+* Refuges for *boldness antipredatory* trials - <span style="color: blue">   Where to find:  
   + Shelters (What to use)
   + Ice for "cold" refuge
 </span>
@@ -141,7 +143,8 @@ options(digits=2)
     - Transparent marbles (1-1.5cm diameter) with red, blue and yellow feathers inside
     - Yellow and pink plasteline
   </span>
-* Filter paper, double-sided tape, sand or similar, cardboard or similar (FOR WALLS?) - <span style="color: blue"> Where to find all. Buy more? </span>
+* Filter paper, double-sided tape, sand or similar, cardboard or similar (FOR WALLS?)  
+    - <span style="color: darkgreen"> Tape bought from Riotstores, check the rest of the material </span>
 </details>
 
 ### **HPA axis response**
