@@ -180,7 +180,7 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
-* ~~Discuss budget and buy material~~
+* Buy terraria
 * Material needed for measuring mass of different regions in the brain:
   + Dissection material (ready/almost ready)
   + Dissection scope (already in Megan's lab)
@@ -197,7 +197,6 @@ options(digits=2)
   <summary style=font-size:16px>*What to do next two weeks*</summary>
 
 * Prepare [Material list]()  
-  + CCTV system: Wait for budget  
   + Check material necessary for HPA axis reactivity (Ondi)  
   + Get ready the material for measuring brain mass  
 * Meta-analysis  
