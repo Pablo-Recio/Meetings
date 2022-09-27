@@ -17,7 +17,7 @@ knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
 options(digits=2)
 ```
 
-## **Meeting 29/08**
+## **Meeting 29/08/2022**
 
 
 <details>
@@ -81,7 +81,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 12/09**
+## **Meeting 12/09/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -150,7 +150,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 26/09**
+## **Meeting 26/09/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -200,7 +200,8 @@ options(digits=2)
   + Check material necessary for HPA axis reactivity (Ondi)  
   + Get ready the material for measuring brain mass  
 * Meta-analysis  
-  + Share database with other collaborators and see consistency in 100 papers * Practice brain dissections and help obtaining blood samples for CORT analyses  
+  + Share database with other collaborators and see consistency in 100 papers  
+* Practice brain dissections and help obtaining blood samples for CORT analyses  
 * Learn how to use Rmarkdown and git hub  
 	+ Create new document with Chapters and Compiled references  
 * Check studies using Oroboros in zebra fish  
@@ -214,3 +215,40 @@ options(digits=2)
 
 </details>
 
+
+## **Meetings 10/10/2022**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Prepare [Material list]()  
+  + Check material necessary for HPA axis reactivity (Ondi)  
+  + Get ready the material for measuring brain mass  
+* Meta-analysis  
+  + Share database with other collaborators and see consistency in 100 papers  
+* Practice brain dissections and help obtaining blood samples for CORT analyses  
+* Learn how to use Rmarkdown and git hub  
+	+ Create new document with Chapters and Compiled references  
+* Check studies using Oroboros in zebra fish  
+* Prepare terrariums for spatial tasks and do some trials  
+* Analyses learning  
+	+ Create code  
+
+  
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+
+
+</details>
+
+</details>
