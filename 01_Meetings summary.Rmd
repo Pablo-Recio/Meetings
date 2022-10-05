@@ -221,12 +221,14 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
+* Ethics application
 * Prepare [Material list]()  
-  + Check material necessary for HPA axis reactivity (Ondi)  
+  + ~~Check material necessary for HPA axis reactivity (Ondi)~~  
+    <span style="color: green"> Nothing needed now, better to buy everything one or two months before experiments as kits may have an unknown expiry date and usually arrive fast </span>  
   + Get ready the material for measuring brain mass  
 * Meta-analysis  
-  + Share database with other collaborators and see consistency in 100 papers  
-* Practice brain dissections and help obtaining blood samples for CORT analyses  
+  + ~~Share database with other collaborators and see consistency in 100 papers~~  
+* Practice brain dissections and <span style="color: red"> ~~obtaining blood samples for CORT analyses~~ </span>   
 * Learn how to use Rmarkdown and git hub  
 	+ Create new document with Chapters and Compiled references  
 * Check studies using Oroboros in zebra fish  
@@ -240,6 +242,8 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
+* CT scanner meeting
+* Ethics application
 
 </details>
 
@@ -247,7 +251,13 @@ options(digits=2)
 
   <summary style=font-size:16px>*What to do next two weeks*</summary>
 
-
+* Finish Ethics application
+* Learn how to use Rmarkdown and git hub  
+	+ Create new document with Chapters and Compiled references  
+* Prepare terrariums for spatial tasks and do some trials  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections
 
 </details>
 

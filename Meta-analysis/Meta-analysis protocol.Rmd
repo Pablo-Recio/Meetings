@@ -81,6 +81,8 @@ For that - if the amount of studies is enough -, I will examine the impact of ea
   <summary style=font-size:15px> Sharing the RAYYAN library with collaborators </summary>  
 
   1. In 'My Reviews', select the review to sher and click on **'Invite'**. Then Select Type: **'Collaborator'** and write the emails of collaborators.
+* When you share the project, the collaborators are blind to your decisions unless you select a different option in the general screen ('BLIND ON' button)  
+* When doing the first screening to see consistency, is better to make a decision on 100 or more ("Maybe" does not count). On Rayyan, if you go to the left side panel, under “Minimum collaborator decisions” and click on “At least 1” those are the papers the creator has screened.  
  
 </details>
 
