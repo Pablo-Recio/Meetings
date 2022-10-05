@@ -106,6 +106,16 @@ For that - if the amount of studies is enough -, I will examine the impact of ea
 </details>
 
 <details>
+  <summary style=font-size:15px> Proposed deadlines </summary>  
+
+  1. Screening the first 100 papers and see consistency  
+    DEADLINE: 21/10/2022 | Meeting: 31/10/2022
+  2. Screening the rest of the abstracts (approx 800/person)
+    DEADLINE: 02/12/2022 | Meeting: 02/12/2022
+ 
+</details>
+
+<details>
   <summary style=font-size:15px> FINAL RESULTS </summary>  
   
  
