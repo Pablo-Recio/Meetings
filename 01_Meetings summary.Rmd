@@ -221,7 +221,7 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
-* Ethics application
+* ~~Ethics application~~
 * Prepare [Material list]()  
   + ~~Check material necessary for HPA axis reactivity (Ondi)~~  
     <span style="color: green"> Nothing needed now, better to buy everything one or two months before experiments as kits may have an unknown expiry date and usually arrive fast </span>  
@@ -231,7 +231,7 @@ options(digits=2)
 * Practice brain dissections and <span style="color: red"> ~~obtaining blood samples for CORT analyses~~ </span>   
 * Learn how to use Rmarkdown and git hub  
 	+ Create new document with Chapters and Compiled references  
-* Check studies using Oroboros in zebra fish  
+* ~~Check studies using Oroboros in zebra fish~~  
 * Prepare terrariums for spatial tasks and do some trials  
 * Analyses learning  
 	+ Create code  
@@ -242,7 +242,8 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
-* CT scanner meeting
+* CT scanner meeting  
+* Oroboros zebra fish studies
 * Ethics application
 
 </details>
