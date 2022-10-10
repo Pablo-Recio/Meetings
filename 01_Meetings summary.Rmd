@@ -242,7 +242,14 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
-* CT scanner meeting  
+* Material: [spatula](https://www.sigmaaldrich.com/AU/en/product/aldrich/z193208)  
+* CT scanner meeting   
+<span style="color: green">
+    - Tissue must not move. They have standarize methods to avoid that
+    - We need to stain the brain - <span style="color: blue"> Ask Dan Hoops (Paul Cooper) about techniques valid for both CT scanner and light microscopy </span>
+    - They can make the statistical analysis or show me; both is expensive and slow
+    - After seeing the tubes, I estimate 10-15, although we may need to do some pre-trials to see the resolution we need
+</span>  
 * Oroboros zebra fish studies
 * Ethics application
 
