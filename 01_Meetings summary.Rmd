@@ -250,7 +250,15 @@ options(digits=2)
     - They can make the statistical analysis or show me; both is expensive and slow
     - After seeing the tubes, I estimate 10-15, although we may need to do some pre-trials to see the resolution we need
 </span>  
-* Oroboros zebra fish studies
+* Oroboros zebra fish studies  
+<span style="color: green">
+    - Papers pooling tissue from different individuals, without information of mass of tissue or tissue mass > 10 mg  
+    - Is there really a possibility to increase Oroboros accuracy?  
+    - Backup plans:  
+      + Slides  
+      + Pool samples (effect of treatment)  
+      + Use other methods (at least initially) to just measure ATP and ROS (base of my premises)  
+</span>
 * Ethics application
 
 </details>
