@@ -216,7 +216,7 @@ options(digits=2)
 </details>
 
 
-## **Meetings 10/10/2022**
+## **Meeting 10/10/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -274,6 +274,41 @@ options(digits=2)
 * Analyses learning  
 	+ Create code  
 * Practice brain dissections
+
+</details>
+
+</details>
+
+## **Meeting 24/10/2022**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Finish Ethics application
+* Compile all references and notes:
+    - 
+* Learn how to use Rmarkdown and git hub  
+	+ Create new document with Chapters  
+* Prepare terrariums for spatial tasks and do some trials  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections
+
+  
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+
 
 </details>
 
