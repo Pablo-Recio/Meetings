@@ -279,14 +279,14 @@ options(digits=2)
 
 </details>
 
-## **Meeting 24/10/2022**
+## **Meeting 7/11/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
-* Finish Ethics application
-* Compile all references and notes:
-    - 
+* ~Finish Ethics application~
+* ~Organize enclosures~
+* ~Prepare protocols and buy chemicals for Oroboros~
 * Learn how to use Rmarkdown and git hub  
 	+ Create new document with Chapters  
 * Prepare terrariums for spatial tasks and do some trials  
@@ -308,7 +308,14 @@ options(digits=2)
 
   <summary style=font-size:16px>*What to do next two weeks*</summary>
 
-
+* Compile all references and notes:
+* HDR conference presentation
+* Learn how to use Rmarkdown and git hub  
+	+ Create new document with Chapters  
+* Prepare terrariums for spatial tasks and do some trials  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections
 
 </details>
 

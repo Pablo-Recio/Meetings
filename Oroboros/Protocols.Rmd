@@ -1,0 +1,42 @@
+---
+title: "Meeting Karine summary"
+author: "Pablo Recio"
+date: "31/10/2022"
+output: 
+  bookdown::html_document2:
+    code_folding: hide
+    number_sections: no
+    toc: yes
+    toc_float: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+### Mitochondrial isolation (Krumschnabel et al, 2014)
+
+Mitochondrial isolation medium for mouse brain mitochondria: 320 mM sucrose, 1 mM EDTA, 10 mM
+TRIS, pH adjusted to 7.4 with HCl (25 °C).  
+
+STEPS:
+  1. Dissect the brain from the mouse skull and place immediately in ice-cold MiR05.  
+  2. Determine wet weight (Ww [mg]).  
+  3. Transfer brain to a pre-cooled glass beaker (20 ml) and wash twice with ice-cold MiR05.  
+  4. Mince the tissue into small pieces using a pair of sharp scissors and suspend with 5
+volume Ww ice-cold MiR05.  
+  5. Transfer to a pre-cooled glass/Teflon potter and homogenize the tissue with 8 strokes at
+1,000 rpm.  
+  6. Transfer the homogenate to 20 ml of ice-cold mitochondrial isolation medium with 2.5
+mg BSA/ml.  
+  7. Centrifuge at 1000 g for 10 min at 4 °C.  
+  8. Transfer the supernatant into new tube and centrifuge at 6,200 g for 10 min at 4 °C.  
+  9. Discard the supernatant and wash mitochondrial pellet with ice-cold mitochondrial
+isolation medium.  
+  10. Re-suspend mitochondria in a small volume of MiR05 (~ 200 μl/brain).  
+  11. Store isolated mitochondria on ice until use.  
+<span style="color: blue">
+  * Adjust volumes to a smaller brain?
+</span>
+
+
+### Respiration
+
