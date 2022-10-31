@@ -1,5 +1,5 @@
 ---
-title: "Meeting Karine summary"
+title: "Protocols"
 author: "Pablo Recio"
 date: "31/10/2022"
 output: 
@@ -14,29 +14,54 @@ editor_options:
 
 ### Mitochondrial isolation (Krumschnabel et al, 2014)
 
-Mitochondrial isolation medium for mouse brain mitochondria: 320 mM sucrose, 1 mM EDTA, 10 mM
-TRIS, pH adjusted to 7.4 with HCl (25 °C).  
+Mitochondrial isolation medium for mouse brain mitochondria: 320 mM sucrose, 1 mM EDTA, 10 mM TRIS, pH adjusted to 7.4 with HCl (25 °C).  
 
-STEPS:
-  1. Dissect the brain from the mouse skull and place immediately in ice-cold MiR05.  
-  2. Determine wet weight (Ww [mg]).  
-  3. Transfer brain to a pre-cooled glass beaker (20 ml) and wash twice with ice-cold MiR05.  
-  4. Mince the tissue into small pieces using a pair of sharp scissors and suspend with 5
-volume Ww ice-cold MiR05.  
-  5. Transfer to a pre-cooled glass/Teflon potter and homogenize the tissue with 8 strokes at
-1,000 rpm.  
-  6. Transfer the homogenate to 20 ml of ice-cold mitochondrial isolation medium with 2.5
-mg BSA/ml.  
+STEPS:  
+
+  1. Dissect the brain from the mouse skull and place immediately in ice-cold MiR05.   
+  2. Determine wet weight (Ww [mg]).   
+  3. Transfer brain to a pre-cooled glass beaker (20 ml) and wash twice with ice-cold MiR05.   
+  4. Mince the tissue into small pieces using a pair of sharp scissors and suspend with 5 volume Ww ice-cold MiR05.  
+  5. Transfer to a pre-cooled glass/Teflon potter and homogenize the tissue with 8 strokes at 1,000 rpm.   
+  6. Transfer the homogenate to 20 ml of ice-cold mitochondrial isolation medium with 2.5 mg BSA/ml.   
   7. Centrifuge at 1000 g for 10 min at 4 °C.  
   8. Transfer the supernatant into new tube and centrifuge at 6,200 g for 10 min at 4 °C.  
-  9. Discard the supernatant and wash mitochondrial pellet with ice-cold mitochondrial
-isolation medium.  
-  10. Re-suspend mitochondria in a small volume of MiR05 (~ 200 μl/brain).  
+  9. Discard the supernatant and wash mitochondrial pellet with ice-cold mitochondrial isolation medium.   
+  10. Re-suspend mitochondria in a small volume of MiR05 (~ 200 μl/brain).   
   11. Store isolated mitochondria on ice until use.  
+
 <span style="color: blue">
+
   * Adjust volumes to a smaller brain?
 </span>
 
 
-### Respiration
+### All process by Krumschnabel et al., 2014
 
+  1. Prepare Oxygraph-2k chambers and settings.  
+  2. Inject 10 (or 20) μl of the AmR stock solution into each respiration chamber, obtaining a f.c. of 10 (or 20) μM, add 4 μl of HRP stock (f.c. 1 U/ml) and 5 U/ml SOD.  
+  3. Let the system stabilize for 15 min to get a stability of oxygen and H2O2 flux.  
+  4. Titrate 20 μl of isolated mouse brain mitochondria into the chambers.  
+  5. Add CI-linked substrates glutamate (10 mM f.c.), malate (2 mM f.c.) and pyruvate (5 mM f.c.) to obtain CI-linked LEAK respiration and H2O2 production.  
+  6. Add ADP (2.5 mM f.c.) to induce CI-linked OXPHOS, followed by succinate (10 mM f.c.) to observe CI+II-linked OXPHOS.  
+  7. Add rotenone (0.5 μM f.c.) to inhibit Complex I and measure CII-linked OXPHOS.  
+  8. Add oligomycin (2 μg/ml f.c.) to inhibit ATP synthase and measure LEAK respiration in
+the presence of adenylates.  
+  9. Titrate FCCP to obtain maximum non-coupled respiration fueled by Complex II.  
+  10. Add malonate (5 mM f.c.) to inhibit CII and observe residual oxygen consumption
+(ROX).  
+  11. Add antimycin A (2.5 μM f.c.) to inhibit CIII at the Qi site and observe ROX.  
+  12. Add myxothiazol (0.5 μM f.c.) to inhibit CIII at the Qo site and observe ROX.  
+  
+<span style="color: blue">
+QUESTIONS:  
+</span>
+
+<span style="color: blue">
+
+  * If we can only measure ROS in one chamber, why adding AmR in both?  
+  * How to quantify protein?  
+  * Adjust volumes to a smaller brain/chamber?  
+</span>
+
+### 
