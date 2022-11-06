@@ -102,6 +102,7 @@ options(digits=2)
 	+ ~~Familiarize with RAYYAN~~
 * Analyses learning
 	+ Create code
+
 </details>
 
 <details>
@@ -109,14 +110,6 @@ options(digits=2)
 
 * [Material needed](https://github.com/Pablo-Recio/Meetings/blob/main/Material/Material-list.html)  
 * Discuss decision tree  
-
-<details>
-  <summary style=font-size:12px> Decision tree </summary>
-  
-![](./Meta-analysis/Decision_tree.png){height="600px" width="750px"}  
-</details>
-
-
 * Discuss Oroboros methods based on the assumption that sample is not going to be enough  
   + If each region weights enough:  
     - Half of the lizards tested for respiration and ATP synthesis, half for ROS (one machine per lizard, each chamber per each region)  <span style="color: red"> - **X** </span>  
@@ -284,15 +277,15 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
-* ~Finish Ethics application~
-* ~Organize enclosures~
-* ~Prepare protocols and buy chemicals for Oroboros~
+* ~~Finish Ethics application~~  
+* ~~Organize enclosures~~  
+* ~~Prepare protocols and buy chemicals for Oroboros~~  
 * Learn how to use Rmarkdown and git hub  
 	+ Create new document with Chapters  
 * Prepare terrariums for spatial tasks and do some trials  
 * Analyses learning  
 	+ Create code  
-* Practice brain dissections
+* Practice brain dissections  
 
   
 </details>
@@ -300,6 +293,8 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
+* Overall theoretical context of thesis - *Meeting on Tuesday 8*
+* Paying containers
 
 
 </details>
@@ -308,10 +303,13 @@ options(digits=2)
 
   <summary style=font-size:16px>*What to do next two weeks*</summary>
 
-* Compile all references and notes:
-* HDR conference presentation
-* Learn how to use Rmarkdown and git hub  
+* Compile all references and notes:  
+  + Prepare HDR conference presentation (23/11) | Practice talk on next lab meeting (16/11)  
 	+ Create new document with Chapters  
+* Meta-analysis:
+  + See and compile Results of first screening  
+  + Improve definitions of CORT and "stressor"  
+  + Go through 100 abstracts and send everything to the rest of collaborators to do the same  
 * Prepare terrariums for spatial tasks and do some trials  
 * Analyses learning  
 	+ Create code  
