@@ -317,4 +317,53 @@ options(digits=2)
 
 </details>
 
+## **Meeting 21/11/2022**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Compile all references and notes:  
+  + Prepare HDR conference presentation (23/11) | Practice talk on next lab meeting (16/11)  
+	+ Create new document with Chapters  
+* Meta-analysis:
+  + See and compile Results of first screening  
+  + Improve definitions of CORT and "stressor"  
+  + Go through 100 abstracts and send everything to the rest of collaborators to do the same  
+* Prepare terrariums for spatial tasks and do some trials  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections 
+
+  
 </details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+* Learning how to introduce references in rmarkdown
+* Change hour/day meetings
+
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Poster for ANZSCPB and talk for AES
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+* Meta-analysis:  
+  + Go through 100 abstracts and send everything to the rest of collaborators to do the same  
+* Experiments:  
+  + Search/order feeders  
+  + Prepare terrariums for spatial tasks and do some trials  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections  
+
+</details>
+
+## **Meeting 04/12/2022**
+## **Meeting 18/12/2022**
+
