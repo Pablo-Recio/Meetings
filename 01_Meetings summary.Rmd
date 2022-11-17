@@ -330,8 +330,8 @@ options(digits=2)
 	+ Create new document with Chapters  
 * Meta-analysis:
   + ~~See and compile Results of first screening~~  
-  + Improve definitions of CORT and "stressor"
-  + Re-screening the previous abstracts with the new criteria
+  + ~~Improve definitions of CORT and "stressor"
+  + Re-screening the previous abstracts with the new criteria~~
   + Go through 100 abstracts and send everything to the rest of collaborators to do the same  
 * Prepare terrariums for spatial tasks and do some trials  
 * Analyses learning  
