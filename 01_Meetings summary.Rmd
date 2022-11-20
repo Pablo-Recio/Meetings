@@ -324,15 +324,15 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
-* Finish Ethics application  
+* ~~Finish Ethics application~~  
 * Compile all references and notes:  
   + ~~Prepare HDR conference presentation (23/11) | Practice talk on next lab meeting (16/11)~~  
 	+ Create new document with Chapters  
 * Meta-analysis:
   + ~~See and compile Results of first screening~~  
-  + ~~Improve definitions of CORT and "stressor"
-  + Re-screening the previous abstracts with the new criteria~~
-  + Go through 100 abstracts and send everything to the rest of collaborators to do the same  
+  + ~~Improve definitions of CORT and "stressor"~~
+  + ~~Re-screening the previous abstracts with the new criteria~~
+  + ~~Go through 100 abstracts and send everything to the rest of collaborators to do the same~~  
 * Prepare terrariums for spatial tasks and do some trials  
 * Analyses learning  
 	+ Create code  
@@ -357,17 +357,12 @@ options(digits=2)
 * Poster for ANZSCPB and talk for AES
 * Compile all references and notes:  
  	+ Create new document with Chapters  
-* Meta-analysis:  
-  + Go through 100 abstracts and send everything to the rest of collaborators to do the same  
 * Experiments:  
-  + Search/order feeders  
+  + Search/order feeders for associative and reversal learning  
   + Prepare terrariums for spatial tasks and do some trials  
 * Analyses learning  
 	+ Create code  
 * Practice brain dissections  
 
 </details>
-
-## **Meeting 04/12/2022**
-## **Meeting 18/12/2022**
 
