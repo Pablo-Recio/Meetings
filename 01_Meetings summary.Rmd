@@ -366,3 +366,49 @@ options(digits=2)
 
 </details>
 
+## **Meeting 5/12/2022**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Poster for ANZSCPB and talk for AES~~  
+* ~~Review processes Oroboros~~  
+* Screening papers Ondi meta-analysis
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+* Experiments:  
+  + Search/order feeders for associative and reversal learning  
+  + Prepare terrariums for spatial tasks  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections  
+
+  
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Conferences
+* Screening papers Ondi meta-analysis
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+* Experiments:  
+  + Search/order feeders for associative and reversal learning  
+  + Prepare terrariums for spatial tasks  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections  
+
+
+</details>
+
+##
