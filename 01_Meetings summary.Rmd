@@ -412,4 +412,56 @@ options(digits=2)
 
 </details>
 
+## **Meeting 15/01/2023**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Lab work~~
+* ~~Conferences~~
+* ~~Screening papers Ondi meta-analysis~~
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+* Experiments:  
+  + Search/order feeders for associative and reversal learning  
+  + Prepare terrariums for spatial tasks  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections  
+  
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+* How to proceed with experiments: see plans  
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Lab work  
+  + Egg&Baby checking  
+  + Build outdoor enclosures  
+  + Condense babies  
+  + "Improve encloures"  
+* Ondi meta-analysis:  
+  + Add pdfs of included papers  
+  + Review full texts of Maybes  
+  + Help with mitochondrial parameters  
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+ 	+ Help with mitochondrial parameters (Ondi's meta-analysis)  
+* Experiments:  
+  + Prepare feeders for associative and reversal learning  
+* Annual Report  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections  
+
+
+</details>
+
 ##
