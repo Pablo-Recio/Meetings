@@ -434,8 +434,10 @@ options(digits=2)
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
 
-* How to proceed with experiments: see plans  
-
+* How to proceed with experiments:  
+  + [Plans Ch 3 & 4](./Ch3&4.png)  
+  + [Plans Ch 5](./Ch5.png)  
+  
 </details>
 
 <details>
