@@ -449,6 +449,10 @@ options(digits=2)
   + Build outdoor enclosures  
   + Condense babies  
   + "Improve encloures"  
+    - Create a database with the clutches produced per enclosure  
+    - See which enclosures are "less productive" and check them  
+    - Check other enclosures with more than 6 ind  
+    - Replace old males with young males  
 * Ondi meta-analysis:  
   + Add pdfs of included papers  
   + Review full texts of Maybes  
