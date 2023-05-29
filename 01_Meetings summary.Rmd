@@ -606,4 +606,63 @@ options(digits=2)
 
 
 </details>
-## 
+## **Meeting 30/05/2023**
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Lab work  
+  + ~~Egg&Baby checking~~  
+  + ~~Build outdoor enclosures~~  
+  + ~~Condense babies~~  
+  + ~~Replace old males with young males in breeding enclosures~~  
+* Ondi meta-analysis:  
+  + ~~Add pdfs of included papers~~  
+  + ~~Review full texts of Maybes~~  
+  + Help with mitochondrial parameters  
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+ 	+ Help with mitochondrial parameters (Ondi's meta-analysis)  
+* Experiments:  
+  + ~~Prepare feeders for associative and reversal learning:~~  
+    - ~~Cut the feeders (workshop)~~  
+    - ~~Paint petri dishes~~  
+  + ~~Trials associative learning~~  
+  + Trials reversal learning  
+  + Trials personality 
+* ~~Annual Report~~  
+* Analyses learning  
+	+ Create code  
+* Practice brain dissections  
+ 
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+  Potential plans: Chs 4 and 2  
+  Basile's dissertation  
+  
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Basile's dissertation
+  + Help with Introduction
+  + Finish Methods and Supp material
+  + Check Results and Discussion
+* Experiments:
+  + Trials reversal learning  
+  + Trials personality  
+  + Code for learning experiments  
+  + Methods of learning experiments  
+* Ondi's meta-analysis:  
+  + Help with mitochondrial parameters
+  + Extract data
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+ 	+ Help with mitochondrial parameters (Ondi's meta-analysis)  
+* Practice brain dissections & make homogenates for flow cytometre
+
+</details>
