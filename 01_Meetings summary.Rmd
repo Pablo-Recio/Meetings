@@ -717,4 +717,54 @@ General
 
 </details>
 
+## **Meeting 10/07/2023**  
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Experiments:
+  + ~~Trials reversal learning~~  
+  + Check analysis personality  
+  + Code for personality and learning  
+  + Methods and Introduction of learning experiments  
+  + ~~Program stressor experiment (write "Protocol")~~  
+
+* Ondi's meta-analysis:  
+  + Help with mitochondrial parameters
+  + Extract data
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+ 	+ Help with mitochondrial parameters (Ondi's meta-analysis)  
+* ~~Practice brain dissections & make homogenates for flow cytometre~~
+ 
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+
+Plan experiment stressor
+  
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Experiments:  
+  + Stressor experiment  
+  + Check analysis personality  
+  + Code for personality and learning  
+  + Methods and Introduction of learning experiments  
+
+* Ondi's meta-analysis:  
+  + Help with mitochondrial parameters
+  + Extract data
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+ 	+ Help with mitochondrial parameters (Ondi's meta-analysis)  
+* Practice brain dissections & make homogenates for flow cytometre
+
+</details>  
+
+</details>
 
