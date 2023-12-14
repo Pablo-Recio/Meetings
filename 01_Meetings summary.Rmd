@@ -768,3 +768,50 @@ Plan experiment stressor
 
 </details>
 
+## **Meeting 15/12/2023**  
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Experiments:  
+  + ~~Stressor experiment~~  
+  + Check analysis personality  
+  + Code for personality and learning  
+  + ~~Methods and~~ Introduction ~~of learning experiments~~  
+
+* Ondi's meta-analysis:  
+  + Help with mitochondrial parameters
+  + Extract data
+* Compile all references and notes:  
+ 	+ Create new document with Chapters  
+ 	+ Help with mitochondrial parameters (Ondi's meta-analysis)  
+* ~~Practice brain dissections & make homogenates for flow cytometre~~
+* ~~Finish prey discrimination experiments~~
+* ~~Analyse some results of learning and stressor experiments~~
+* ~~Talks for HDR, ASH, and ANZSCPB conferences~~
+* ~~Start collecting eggs~~
+
+ 
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things covered during meeting*</summary>
+* Numerical discrimination protocols - Talk with Martin about how to program the tablets?  
+* Do we need more _Lampropholis_ from Sydney?  
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Improve code of learning and 'stressor'  
+* Have a first draft of the asso-rev learning paper  
+* Continue collecting eggs for future experiments  
+* Start preparing spatial learning and numerical discrimination protocols  
+  + Print maze for spa-learning  
+  + Check tablets and video possibilities for num-dis  
+
+</details>  
+
+</details>
