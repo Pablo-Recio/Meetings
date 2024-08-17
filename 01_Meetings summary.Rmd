@@ -717,7 +717,7 @@ General
 
 </details>
 
-## **Meeting 10/07/2023**  
+## **Meeting 10/07/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -768,7 +768,7 @@ Plan experiment stressor
 
 </details>
 
-## **Meeting 15/12/2023**  
+## **Meeting 15/12/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -778,7 +778,6 @@ Plan experiment stressor
   + Check analysis personality  
   + Code for personality and learning  
   + ~~Methods and~~ Introduction ~~of learning experiments~~  
-
 * Ondi's meta-analysis:  
   + Help with mitochondrial parameters
   + Extract data
@@ -796,6 +795,7 @@ Plan experiment stressor
 
 <details>
   <summary style=font-size:16px>*Things covered during meeting*</summary>
+
 * Numerical discrimination protocols - Talk with Martin about how to program the tablets?  
 * Do we need more _Lampropholis_ from Sydney?  
 
@@ -812,6 +812,80 @@ Plan experiment stressor
   + Print maze for spa-learning  
   + Check tablets and video possibilities for num-dis  
 
+</details>  
+
+</details>
+
+## **Meeting 16/08/2024**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Spatial learning - mitochondrial activity experiment completed  
+* Numerical discrimination experiment completed  
+* Associative and reversal learning manuscripts written, second one submitted  
+* Prenatal GCs and learning meta-analysis screened  
+ 
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+* Numerical discrimination analyses  
+* Personal writing retreat 23-26/8  
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next two weeks*</summary>
+
+* Finish numerical discrimination analyses  
+* Write first numerical discrimination draft (planned due date: 27/8)  
+* IF we hear back from _Animal Behaviour_:
+  + Review manuscript and resubmit
+  + Send associative learning manuscript to collaborators
+* ELSE:
+  + Extract Methods from papers meta-analysis
+  + Video-analyses of prey discrimination experiment
+
+</details>  
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Prey discrimination experiment**  
+  + (Proper) Video-analyses  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write Intro, Results, and Discussion  
+* **Spatial learning task**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write Intro, Results, and Discussion  
+* **Meta-analysis**  
+  + Extract methods paper (better selection)  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses  
+  + Write Intro, Methods, Results, and Discussion  
+* **Meta-analysis Patrice**
+  + Help with screening and extracting data
+* **Effect of acute and chronical stress**  
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses  
+  + Write Intro, Methods, Results, and Discussion
+* **Personality**
+  + (Proper) Video-analyses
+  + Statistial analyses
+  + Write Intro, Results, and Discussion
+* **Personality (Fonti)**
+  + Video-analyses
+  + Statistial analyses
+  + Write Intro, Methods(?), Results, and Discussion  
+  
 </details>  
 
 </details>
