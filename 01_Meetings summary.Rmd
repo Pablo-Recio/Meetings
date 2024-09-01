@@ -889,3 +889,76 @@ Plan experiment stressor
 </details>  
 
 </details>
+
+## **Meeting 2/09/2024**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Finish numerical discrimination analyses~~  
+* ~~Write first numerical discrimination draft (planned due date: 27/8)~~  
+* IF we hear back from _Animal Behaviour_:
+  + Review manuscript and resubmit
+  + ~~Send associative learning manuscript to collaborators~~
+* ELSE:
+  + Extract Methods from papers meta-analysis
+  + Video-analyses of prey discrimination experiment 
+ 
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+Checks??
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Review manuscript and resubmit  
+* Screening abstracts for Patrice
+* Extract Methods from papers meta-analysis  
+* Video-analyses of prey discrimination experiment  
+
+</details>  
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Prey discrimination experiment**  
+  + (Proper) Video-analyses  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write Intro, Results, and Discussion  
+* **Spatial learning task**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write Intro, Results, and Discussion  
+* **Meta-analysis**  
+  + Extract methods paper (better selection)  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses  
+  + Write Intro, Methods, Results, and Discussion  
+* **Meta-analysis Patrice**
+  + Help with screening and extracting data
+* **Effect of acute and chronical stress**  
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses  
+  + Write Intro, Methods, Results, and Discussion
+* **Personality**
+  + (Proper) Video-analyses
+  + Statistial analyses
+  + Write Intro, Results, and Discussion
+* **Personality (Fonti)**
+  + Video-analyses
+  + Statistial analyses
+  + Write Intro, Methods(?), Results, and Discussion  
+  
+</details>  
+
+</details>
