@@ -272,7 +272,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 7/11/2022**
+## **Meeting 07/11/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -366,7 +366,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 5/12/2022**
+## **Meeting 05/12/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -890,7 +890,7 @@ Plan experiment stressor
 
 </details>
 
-## **Meeting 2/09/2024**
+## **Meeting 02/09/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -939,6 +939,71 @@ Checks??
   + Write Intro, Results, and Discussion  
 * **Meta-analysis**  
   + Extract methods paper (better selection)  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses  
+  + Write Intro, Methods, Results, and Discussion  
+* **Meta-analysis Patrice**
+  + Help with screening and extracting data
+* **Effect of acute and chronical stress**  
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses  
+  + Write Intro, Methods, Results, and Discussion
+* **Personality**
+  + (Proper) Video-analyses
+  + Statistial analyses
+  + Write Intro, Results, and Discussion
+* **Personality (Fonti)**
+  + Video-analyses
+  + Statistial analyses
+  + Write Intro, Methods(?), Results, and Discussion  
+  
+</details>  
+
+</details>
+
+## **Meeting 09/09/2024**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Review manuscript and resubmit~~  
+* ~~Screening abstracts for Patrice~~  
+* Extract Methods from papers meta-analysis  
+* Video-analyses of prey discrimination experiment  
+ 
+</details>
+
+<details>
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+How to extract the Methods. Check Excel
+
+</details>
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Extract Methods from papers meta-analysis  
+* Video-analyses of prey discrimination experiment  
+
+</details>  
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Prey discrimination experiment**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write Intro, Results, and Discussion  
+* **Spatial learning task**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses  
+  + Write Intro, Results, and Discussion  
+* **Meta-analysis**  
   + Meeting collaborators for data extraction  
   + Extract data papers  
   + Statistical analyses  
