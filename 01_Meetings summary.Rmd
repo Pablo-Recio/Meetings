@@ -978,7 +978,7 @@ Checks??
 <details>
   <summary style=font-size:16px>*Things to cover during meeting*</summary>
 
-How to extract the Methods. Check Excel
+How to extract the Methods
 
 </details>
 
