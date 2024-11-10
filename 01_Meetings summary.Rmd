@@ -1164,3 +1164,72 @@ Associative learning manuscript
 </details>  
 
 </details>
+
+## **Meetings 11/11/2024**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~3rd draft Numerical discrimination manuscript~~     
+* ~~Extract Methods from papers meta-analysis~~   
+* ~~Final draft and submission of associative learning manuscript~~   
+ 
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Numerical discrimination paper: final checkings and submission  
+* EcoEvoRxiv website  
+* Learning methodology: search for papers  
+* Video-analyses of prey discrimination experiment   
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Prey discrimination experiment**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write  
+* **Spatial learning task**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses  
+  + Write  
+* **Meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write Intro, Methods, Results, and Discussion  
+* **Meta-analysis Patrice**
+  + Help with screening and extracting data  
+* **Effect of acute and chronical stress**   
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write Intro, Methods, Results, and Discussion  
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistial analyses  
+  + Write Intro, Results, and Discussion  
+* **Personality (Fonti)**  
+  + Video-analyses  
+  + Statistial analyses  
+  + Write Intro, Methods(?), Results, and Discussion   
+  
+</details>  
+
+</details>
