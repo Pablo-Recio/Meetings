@@ -1269,6 +1269,10 @@ Associative learning manuscript
 
   <summary style=font-size:16px>*Future to do list*</summary>
 
+* **To learn or not to learn**  
+  + Screen papers  
+  + Extract data to see what is people doing  
+  + Write  
 * **Prey discrimination experiment**  
   + Flow cytometry: DNA damage and lipid peroxidation  
   + Statistical analyses (SEM?)  
@@ -1281,22 +1285,22 @@ Associative learning manuscript
   + Meeting collaborators for data extraction  
   + Extract data papers  
   + Statistical analyses   
-  + Write Intro, Methods, Results, and Discussion  
+  + Write    
 * **Meta-analysis Patrice**
   + Help with screening and extracting data  
 * **Effect of acute and chronical stress**   
   + (Proper) Video-analyses  
   + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
   + Statistical analyses   
-  + Write Intro, Methods, Results, and Discussion  
+  + Write   
 * **Personality**
   + (Proper) Video-analyses  
   + Statistial analyses  
-  + Write Intro, Results, and Discussion  
+  + Write   
 * **Personality (Fonti)**  
   + Video-analyses  
   + Statistial analyses  
-  + Write Intro, Methods(?), Results, and Discussion   
+  + Write    
   
 </details>  
 
