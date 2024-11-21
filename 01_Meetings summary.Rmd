@@ -1305,3 +1305,81 @@ Associative learning manuscript
 </details>  
 
 </details>
+
+## **Meetings 25/11/2024**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~HDR talk~~  
+* ~~Extract data for Patrice's meta-analysis~~  
+* ~~Learning methodology: search for papers~~  
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+* Learning methodology: search for papers  
+  + Terms and what to include  
+  + How to select manuscripts: ASReview? (see [Orr et al., 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14463))  
+* Other questions about data extraction?
+
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Extract data for Patrice's meta-analysis  
+* Learning methodology: get the appropiate papers  
+* Video-analyses of prey discrimination experiment   
+* Lab??  
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **To learn or not to learn**  
+  + Screen papers  
+  + Extract data to see what is people doing  
+  + Write  
+* **Prey discrimination experiment**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses (SEM?)  
+  + Write  
+* **Spatial learning task**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses  
+  + Write  
+* **Meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Meta-analysis Patrice**
+  + Help with screening and extracting data  
+* **Effect of acute and chronical stress**   
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistial analyses  
+  + Write   
+* **Personality (Fonti)**  
+  + Video-analyses  
+  + Statistial analyses  
+  + Write    
+  
+</details>  
+
+</details>
