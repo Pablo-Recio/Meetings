@@ -1383,3 +1383,76 @@ Associative learning manuscript
 </details>  
 
 </details>
+
+## **Meetings 02/12/2024**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Lab: DNA damage and lipid peroxidation in OB and OT~~  
+* ~~Extract data for Patrice's meta-analysis~~  
+* ~~Learning methodology: get the reference list and getting started with ASReview~~  
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+* Check 'learn or not to learn' process and validation exp idea
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Extract data for Patrice's meta-analysis  
+* Learning methodology: screening  
+* Video-analyses of prey discrimination experiment   
+* Lab: DNA damage and lipid peroxidation in MC  
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **To learn or not to learn**  
+  + Screen papers  
+  + Extract data to see what is people doing  
+  + Write  
+* **Prey discrimination experiment**  
+  + Statistical analyses (SEM?)  
+  + Write  
+* **Spatial learning task**  
+  + Flow cytometry: DNA damage and lipid peroxidation  
+  + Statistical analyses  
+  + Write  
+* **Meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Meta-analysis Patrice**
+  + Help with extracting data  
+* **Effect of acute and chronical stress**   
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistial analyses  
+  + Write   
+* **Personality (Fonti)**  
+  + Video-analyses  
+  + Statistial analyses  
+  + Write    
+  
+</details>  
+
+</details>
