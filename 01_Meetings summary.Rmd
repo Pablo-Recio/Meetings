@@ -1400,7 +1400,7 @@ Associative learning manuscript
 
   <summary style=font-size:16px>*Things to cover during meeting*</summary>
 
-* Check 'learn or not to learn' process and validation exp idea
+* Check 'learn or not to learn' process
 
 </details>
 
@@ -1437,8 +1437,6 @@ Associative learning manuscript
   + Extract data papers  
   + Statistical analyses   
   + Write    
-* **Meta-analysis Patrice**
-  + Help with extracting data  
 * **Effect of acute and chronical stress**   
   + (Proper) Video-analyses  
   + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
