@@ -1455,7 +1455,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meetings 08/12/2024**
+## **Meetings 09/12/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1481,7 +1481,7 @@ Associative learning manuscript
 
 * Learning methodology: screening  
 * Video-analyses of prey discrimination experiment   
-* Start with extractiong data for meta-analysis  
+* Start with extracting data for meta-analysis  
 
 </details>  
 
