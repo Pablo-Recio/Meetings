@@ -1534,9 +1534,8 @@ Associative learning manuscript
 * ~~Learn how to extract flow data~~  
 * ~~Extract data for Ondi's meta-analysis~~  
 * ~~GC and learning: prepared the questions and data we got~~  
-* ~~Organise READ ME files of submitted papers' repositories and upload papers to EcoEvoRxiv~~  
-* ~~Start screening papers for "learn or not to learn"~~  
-* ~~Convert and check 10 videos of prey discrimination experiment~~  
+* ~~Organise READ ME files of submitted papers' repositories~~  
+* ~~Videos of prey discrimination experiment~~  
 
 </details>
 
@@ -1545,7 +1544,7 @@ Associative learning manuscript
 
   <summary style=font-size:16px>*Things to cover during meeting*</summary>
 
-* Check questions GC and learning meta-analysis
+* Check questions GC and learning meta-analysis  
 
 </details>
 
@@ -1554,9 +1553,10 @@ Associative learning manuscript
 
   <summary style=font-size:16px>*What to do next week*</summary>
 
-* Learn or not to learn (learning methodology): screening  
+* Ondi's meta-analysis: finish extracting original papers  
+* Learn or not to learn (learning methodology): screening   
 * Video-analyses of prey discrimination experiment   
-* Start with extracting data for meta-analysis  
+* Start with extracting data for meta-analysis   
 
 </details>  
 
@@ -1566,13 +1566,14 @@ Associative learning manuscript
   <summary style=font-size:16px>*Future to do list*</summary>
 
 * **To learn or not to learn**  
-  + Screen papers  
   + Extract data to see what is people doing  
   + Write  
 * **Prey discrimination experiment**  
+  + Validation experiment  
   + Statistical analyses (SEM?)  
   + Write  
 * **Spatial learning task**  
+  + Validation experiment  
   + Statistical analyses  
   + Write  
 * **Meta-analysis**  
