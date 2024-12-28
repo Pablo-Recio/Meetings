@@ -1605,11 +1605,10 @@ Associative learning manuscript
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
 * ~~Ondi's meta-analysis: finish extracting original papers~~    
-* Learn or not to learn (learning methodology): screening   
+* Learn or not to learn (learning methodology): screening RAYYAN   
 * Video-analyses of prey discrimination experiment   
-* Start with extracting data for meta-analysis   
-* Methods Spatial learning
-* Methods Prey discrimination
+* Methods Spatial learning  
+* Methods Prey discrimination  
 
 </details>
 
@@ -1630,7 +1629,6 @@ Associative learning manuscript
 * First draft Intro Spatial learning  
 * First draft Intro Prey discrimination  
 * Finish validation experiment 'to learn or not to learn'  
-* CORT and learning meta meeting with collaborators  
 
 </details>  
 
