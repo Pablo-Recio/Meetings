@@ -1605,10 +1605,10 @@ Associative learning manuscript
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
 * ~~Ondi's meta-analysis: finish extracting original papers~~    
-* Learn or not to learn (learning methodology): screening RAYYAN   
+* ~~Learn or not to learn (learning methodology): screening RAYYAN~~   
 * Video-analyses of prey discrimination experiment   
 * Methods Spatial learning  
-* Methods Prey discrimination  
+* Methods Prey discrimination   
 
 </details>
 
@@ -1625,9 +1625,10 @@ Associative learning manuscript
 
   <summary style=font-size:16px>*What to do next week*</summary>
 
+* Video-analyses of prey discrimination experiment   
+* Methods Spatial learning  
+* Methods Prey discrimination   
 * Cell sorting validation experiment: email Mick   
-* First draft Intro Spatial learning  
-* First draft Intro Prey discrimination  
 * Finish validation experiment 'to learn or not to learn'  
 
 </details>  
@@ -1639,6 +1640,75 @@ Associative learning manuscript
 
 * **To learn or not to learn**  
   + Extract data to see what is people doing  
+  + Write  
+* **Prey discrimination experiment**  
+  + Statistical analyses (SEM?)  
+  + Write  
+* **Spatial learning task**  
+  + Statistical analyses  
+  + Write  
+* **Meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Effect of acute and chronical stress**   
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistial analyses  
+  + Write   
+* **Personality (Fonti)**  
+  + Video-analyses  
+  + Statistial analyses  
+  + Write    
+  
+</details>  
+
+</details>
+
+## **Meetings 13/01/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Video-analyses of prey discrimination experiment   
+* Methods Spatial learning  
+* Methods Prey discrimination   
+* Cell sorting validation experiment: email Mick   
+* Finish validation experiment 'to learn or not to learn'  
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Intro thesis   
+* Start 'learn or not to learn' extraction  
+* Cell sorting validation experiment: plan experiment   
+
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **To learn or not to learn**  
   + Write  
 * **Prey discrimination experiment**  
   + Statistical analyses (SEM?)  
