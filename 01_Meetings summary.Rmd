@@ -1675,11 +1675,10 @@ Associative learning manuscript
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
-* Video-analyses of prey discrimination experiment   
-* Methods Spatial learning  
-* Methods Prey discrimination   
-* Cell sorting validation experiment: email Mick   
-* Finish validation experiment 'to learn or not to learn'  
+* ~~Video-analyses of prey discrimination experiment~~   
+* ~~Methods Spatial learning~~  
+* ~~Methods Prey discrimination~~   
+* ~~Cell sorting validation experiment: email Mick~~   
 
 </details>
 
@@ -1696,8 +1695,9 @@ Associative learning manuscript
 
   <summary style=font-size:16px>*What to do next week*</summary>
 
-* Intro thesis   
-* Start 'learn or not to learn' extraction  
+* Finish validation experiment 'to learn or not to learn'  
+* Start Intro thesis   
+* Sort lizards in mesocosmos: trim plants, put mulch, release old guys    
 * Cell sorting validation experiment: plan experiment   
 
 
@@ -1728,11 +1728,11 @@ Associative learning manuscript
   + Write   
 * **Personality**
   + (Proper) Video-analyses  
-  + Statistial analyses  
+  + Statistical analyses  
   + Write   
 * **Personality (Fonti)**  
   + Video-analyses  
-  + Statistial analyses  
+  + Statistical analyses  
   + Write    
   
 </details>  
