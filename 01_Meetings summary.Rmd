@@ -1834,7 +1834,10 @@ Plans
 
   <summary style=font-size:16px>*What to do next week*</summary>
 
-
+* Finish Ondi's meta-analysis
+* Start screening experiment 'to learn or not to learn'  
+* Sort lizards in mesocosmos: trim plants, release guys    
+* Study SEM  
 
 
 </details>  
@@ -1858,6 +1861,75 @@ Plans
   + Statistical analyses   
   + Write    
 * **Effect of acute and chronical stress**   
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistical analyses  
+  + Write   
+* **Personality (Fonti)**  
+  + Video-analyses  
+  + Statistical analyses  
+  + Write    
+  
+</details>  
+
+</details>
+
+# **Meeting 10/02/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Ondi's meta-analysis~~
+* ~~Start screening experiment 'to learn or not to learn'~~  
+* ~~Sort lizards in mesocosmos: trim plants, release guys~~    
+* ~~Study SEM~~  
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* ~~Help Dalton with lizards' measurements~~
+* ~~Continue screening experiment 'to learn or not to learn'~~  
+* ~~Start Prey Discrimination Analyses~~  
+
+
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **To learn or not to learn**  
+  + Write  
+* **Prey discrimination experiment**  
+  + Write  
+* **Spatial learning task**  
+  + Statistical analyses  
+  + Write  
+* **Meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Effect of acute and chronic stress**   
   + (Proper) Video-analyses  
   + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
   + Statistical analyses   
