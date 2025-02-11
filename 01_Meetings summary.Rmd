@@ -1878,7 +1878,7 @@ Plans
 
 </details>
 
-# **Meeting 10/02/2025**
+## **Meeting 17/02/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1887,6 +1887,9 @@ Plans
 * ~~Start screening experiment 'to learn or not to learn'~~  
 * ~~Sort lizards in mesocosmos: trim plants, release guys~~    
 * ~~Study SEM~~  
+* ~~Help Dalton with lizards' measurements~~
+* ~~Continue screening experiment 'to learn or not to learn'~~  
+* ~~Start Prey Discrimination Analyses~~  
 
 </details>
 
@@ -1895,7 +1898,7 @@ Plans
 
   <summary style=font-size:16px>*Things to cover during meeting*</summary>
 
-
+* Times/important dates thesis
 
 </details>
 
@@ -1904,11 +1907,9 @@ Plans
 
   <summary style=font-size:16px>*What to do next week*</summary>
 
-* ~~Help Dalton with lizards' measurements~~
-* ~~Continue screening experiment 'to learn or not to learn'~~  
-* ~~Start Prey Discrimination Analyses~~  
-
-
+* Organise validation with CAM people/keep them posted
+* Write Prey Discrimination: Results and Intro
+* Continue screening experiment 'to learn or not to learn'
 
 </details>  
 
@@ -1918,8 +1919,6 @@ Plans
   <summary style=font-size:16px>*Future to do list*</summary>
 
 * **To learn or not to learn**  
-  + Write  
-* **Prey discrimination experiment**  
   + Write  
 * **Spatial learning task**  
   + Statistical analyses  
