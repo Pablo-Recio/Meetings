@@ -1888,8 +1888,8 @@ Plans
 * ~~Sort lizards in mesocosmos: trim plants, release guys~~    
 * ~~Study SEM~~  
 * ~~Help Dalton with lizards' measurements~~
-* ~~Continue screening experiment 'to learn or not to learn'~~  
 * ~~Start Prey Discrimination Analyses~~  
+* ~~Work on learning and fitness meta-analisys~~
 
 </details>
 
@@ -1899,6 +1899,7 @@ Plans
   <summary style=font-size:16px>*Things to cover during meeting*</summary>
 
 * Times/important dates thesis
+* Models Prey-discr
 
 </details>
 
@@ -1910,6 +1911,7 @@ Plans
 * Organise validation with CAM people/keep them posted
 * Write Prey Discrimination: Results and Intro
 * Continue screening experiment 'to learn or not to learn'
+* Prepare validation of ASRev for 'learning and fitness' meta-analysis
 
 </details>  
 
@@ -1918,12 +1920,17 @@ Plans
 
   <summary style=font-size:16px>*Future to do list*</summary>
 
+* **Thesis**
+  + Write Introduction
+  + Write Discussion/Conclusions
+  + Compile all chapters
 * **To learn or not to learn**  
+  + Extract data (methods)
   + Write  
 * **Spatial learning task**  
   + Statistical analyses  
   + Write  
-* **Meta-analysis**  
+* **CORT and learning meta-analysis**  
   + Meeting collaborators for data extraction  
   + Extract data papers  
   + Statistical analyses   
