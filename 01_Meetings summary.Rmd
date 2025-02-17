@@ -1952,3 +1952,72 @@ Plans
 </details>  
 
 </details>
+
+## **Meeting 24/02/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Organise validation with CAM people/keep them posted~~  
+* ~~Write Prey Discrimination: Results and Intro~~  
+* ~~Continue screening experiment 'to learn or not to learn'~~  
+* ~~Validation of 'learning and fitness' meta-analysis~~  
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Write Prey Discrimination: Discussion  
+* Start analysis of Spatial Learning chapter
+* Continue screening experiment 'to learn or not to learn'  
+* Second validation of 'learning and fitness' meta-analysis  
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Thesis**
+  + Write Introduction
+  + Write Discussion/Conclusions
+  + Compile all chapters
+* **To learn or not to learn**  
+  + Extract data (methods)
+  + Write  
+* **Spatial learning task**  
+  + Write  
+* **CORT and learning meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Effect of acute and chronic stress**   
+  + (Proper) Video-analyses  
+  + Obtain faecal CORT (?) - Potential alternative: use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistical analyses  
+  + Write   
+* **Personality (Fonti)**  
+  + Video-analyses  
+  + Statistical analyses  
+  + Write    
+  
+</details>  
+
+</details>
