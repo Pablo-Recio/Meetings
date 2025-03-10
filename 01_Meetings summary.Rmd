@@ -2092,3 +2092,70 @@ Plans
 
 
 </details>
+
+## **Meeting 11/03/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Write Spatial learning intro, methods, and part of results~~  
+* ~~Continue screening experiment 'to learn or not to learn'~~  
+* ~~Validation of 'learning and fitness' meta-analysis~~  
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+* SEM
+* Standardization of SD
+* Slopes or general models for univariate models of learning
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Finish writing Spatial Learning chapter  
+* Continue screening experiment 'to learn or not to learn'  
+* Submit the numerical discrimination review  
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Thesis**
+  + Write Introduction
+  + Write Discussion/Conclusions
+  + Compile all chapters
+* **To learn or not to learn**  
+  + Extract data (methods)
+  + Write  
+* **CORT and learning meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Effect of acute and chronic stress**   
+  + (Proper) Video-analyses  
+  + ~~Obtain faecal CORT~~ - Use only behavioural data (anti-predatory behaviour?)  
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses  
+  + Statistical analyses  
+  + Write   
+   
+</details>  
+
+</details>
+
+
+</details>
