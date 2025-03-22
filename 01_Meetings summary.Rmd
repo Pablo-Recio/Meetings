@@ -2223,3 +2223,70 @@ Plans
 
 
 </details>
+
+## **Meeting 24/03/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Check and correct spatial learning paper~~    
+* ~~Check and correct numerical discrimination paper~~   
+* ~~Make ASAB poster~~   
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+- ASAB poster    
+- Submissions     
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Submit the 'intention of submission' form      
+* Validation of brain cells  
+* Start thesis Intro   
+* Continue screening experiment 'to learn or not to learn'  
+* Submit the numerical discrimination paper   
+* Send spatial learning papers to collaborators    
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Thesis**
+  + Write Discussion/Conclusions
+  + Compile all chapters
+* **To learn or not to learn**  
+  + Extract data (methods)
+  + Write  
+* **CORT and learning meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Effect of acute and chronic stress**   
+  + (Proper) Video-analyses   
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses   
+  + Statistical analyses   
+  + Write   
+   
+</details>  
+
+</details>
+
+
+</details>
