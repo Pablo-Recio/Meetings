@@ -2290,3 +2290,67 @@ Plans
 
 
 </details>
+
+## **Meeting 31/03/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Submit the 'intention of submission' form~~      
+* ~~Start thesis Intro~~   
+* ~~Continue screening experiment 'to learn or not to learn'~~  
+* ~~Submit the numerical discrimination paper~~   
+* ~~Send spatial learning papers to collaborators~~  
+* ~~Submit reviews Behavioral Ecology~~    
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+     
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Validation of brain cells  
+* Start thesis discussion   
+* Teach Matheo to analyse the videos for 'Effect of acute and chronic stress'   
+* Continue screening papers for 'to learn or not to learn'        
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **Thesis**
+  + Compile all chapters
+* **To learn or not to learn**  
+  + Extract data (methods)
+  + Write  
+* **CORT and learning meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Effect of acute and chronic stress**   
+  + Statistical analyses   
+  + Write   
+* **Personality**
+  + (Proper) Video-analyses   
+  + Statistical analyses   
+  + Write   
+   
+</details>  
+
+</details>
+
+
+</details>
