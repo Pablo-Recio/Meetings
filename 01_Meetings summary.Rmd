@@ -2297,7 +2297,7 @@ Plans
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
 * ~~Submit the 'intention of submission' form~~      
-* ~~Start thesis Intro~~   
+* ~~First draft thesis Intro~~   
 * ~~Continue screening experiment 'to learn or not to learn'~~  
 * ~~Submit the numerical discrimination paper~~   
 * ~~Send spatial learning papers to collaborators~~  
