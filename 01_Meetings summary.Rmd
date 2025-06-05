@@ -2450,7 +2450,8 @@ Plans
 
 * Exit seminar     
 * Review PreyD    
-* Submit JEB review   
+* Submit JEB review    
+* Review thesis (references, format, comments, etc.)    
 * Continue screening papers for 'to learn or not to learn'        
 
 </details>  
