@@ -2483,3 +2483,63 @@ Plans
 
 
 </details>
+
+## **Meeting 10/06/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Exit seminar~~   
+* ~~Plagiarism report~~         
+* ~~Help Mathéo with analyses~~   
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+* Results "stressor"
+   
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Write "stressor"         
+* Review thesis (references, format, comments, etc.)    
+* Continue screening papers for 'to learn or not to learn'        
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **CORT and learning meta-analysis**  
+  + Meeting collaborators for data extraction  
+  + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Learning and fitness**
+  + Screening: maximize        
+  + Screening     
+  + Extract data             
+* **To learn or not to learn**  
+  + Extract data (methods)   
+  + Write  
+* **Personality**
+  + (Proper) Video-analyses   
+  + Statistical analyses   
+  + Write   
+   
+</details>  
+
+</details>
+
+
+</details>
