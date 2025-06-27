@@ -2420,7 +2420,7 @@ Plans
 
 </details>
 
-## **Meeting 4/06/2025**
+## **Meeting 04/06/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2523,6 +2523,68 @@ Plans
 * **CORT and learning meta-analysis**  
   + Meeting collaborators for data extraction  
   + Extract data papers  
+  + Statistical analyses   
+  + Write    
+* **Learning and fitness**
+  + Screening: maximize        
+  + Screening     
+  + Extract data             
+* **To learn or not to learn**  
+  + Extract data (methods)   
+  + Write  
+* **Personality**
+  + (Proper) Video-analyses   
+  + Statistical analyses   
+  + Write   
+   
+</details>  
+
+</details>
+
+
+</details>
+
+
+## **Meeting 01/07/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* Write "stressor"         
+* ~~Review thesis (references, format, comments, etc.)~~    
+* ~~Continue screening papers for 'to learn or not to learn'~~        
+* ~~ASH and workshop~~
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+
+* Organise earless dragon project
+   
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* Write and send "stressor"   
+* CORT and learning meta-analysis: extract data          
+* Learning and fitness: screening       
+* Continue screening papers for 'to learn or not to learn'    
+* Send JEB review         
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **CORT and learning meta-analysis**  
   + Statistical analyses   
   + Write    
 * **Learning and fitness**
