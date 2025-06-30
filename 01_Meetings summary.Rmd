@@ -2562,7 +2562,9 @@ Plans
 
   <summary style=font-size:16px>*Things to cover during meeting*</summary>
 
-* Organise earless dragon project
+* Organise earless dragon project            
+* Rebuttal JEB            
+* Podcast app?              
    
 </details>
 
