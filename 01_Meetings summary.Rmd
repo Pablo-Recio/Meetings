@@ -2664,3 +2664,65 @@ Plans
 
 
 </details>
+
+## **Meeting 28/07/2025**
+
+<details>
+  <summary style=font-size:16px>*Things done since last meeting*</summary>
+
+* ~~Continue screening papers for 'to learn or not to learn'~~         
+* ~~*Tympo's* lab~~       
+* ~~CORT and learning meta-analysis: extract data of 25 papers~~            
+* ~~Thesis review: Chs1-4~~           
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to cover during meeting*</summary>
+             
+* *Tympos*     
+* Numerical discrimination paper (what to do?)           
+* When to re-submit             
+* Take the computer               
+* CORT-meta extraction: review              
+   
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*What to do next week*</summary>
+
+* CORT and learning meta-analysis: have extracted 45 papers          
+* Flow and more extractions *Tympos*          
+* Continue screening papers for 'to learn or not to learn'      
+* Thesis review: Ch5, Intro, and Discussion          
+
+
+</details>  
+
+
+<details>
+
+  <summary style=font-size:16px>*Future to do list*</summary>
+
+* **CORT and learning meta-analysis**  
+  + Statistical analyses   
+  + Write    
+* **Learning and fitness**
+  + Screening: maximize        
+  + Screening     
+  + Extract data             
+* **To learn or not to learn**  
+  + Extract data (methods)   
+  + Write  
+ 
+   
+</details>  
+
+</details>
+
+
+</details>
