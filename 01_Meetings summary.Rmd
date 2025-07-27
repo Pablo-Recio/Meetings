@@ -2672,7 +2672,7 @@ Plans
 
 * ~~Continue screening papers for 'to learn or not to learn'~~         
 * ~~*Tympo's* lab~~       
-* ~~CORT and learning meta-analysis: extract data of 25 papers~~            
+* ~~CORT and learning meta-analysis: extract data of 10 papers~~            
 * ~~Thesis review: Chs1-4~~           
 
 </details>
@@ -2695,7 +2695,7 @@ Plans
 
   <summary style=font-size:16px>*What to do next week*</summary>
 
-* CORT and learning meta-analysis: have extracted 45 papers          
+* CORT and learning meta-analysis: have extracted 40 papers          
 * Flow and more extractions *Tympos*          
 * Continue screening papers for 'to learn or not to learn'      
 * Thesis review: Ch5, Intro, and Discussion          
