@@ -2728,7 +2728,6 @@ Plans
 </details>
 
 ## **Meeting 04/08/2025**
-## **Meeting 28/07/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
