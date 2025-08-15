@@ -17,7 +17,7 @@ knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
 options(digits=2)
 ```
 
-## **Meeting 29/08/2022**
+## **Meeting Dan 29/08/2022**
 
 
 <details>
@@ -81,7 +81,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 12/09/2022**
+## **Meeting Dan 12/09/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -143,7 +143,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 26/09/2022**
+## **Meeting Dan 26/09/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -209,7 +209,7 @@ options(digits=2)
 </details>
 
 
-## **Meeting 10/10/2022**
+## **Meeting Dan 10/10/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -272,7 +272,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 07/11/2022**
+## **Meeting Dan 07/11/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -319,7 +319,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 21/11/2022**
+## **Meeting Dan 21/11/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -366,7 +366,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 05/12/2022**
+## **Meeting Dan 05/12/2022**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -412,7 +412,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 15/01/2023**
+## **Meeting Dan 15/01/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -470,7 +470,7 @@ options(digits=2)
 
 </details>
 
-## **Meeting 22/01/2023**
+## **Meeting Dan 22/01/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -539,7 +539,7 @@ options(digits=2)
 
 
 </details>
-## **Meeting 06/02/2023**
+## **Meeting Dan 06/02/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -603,7 +603,7 @@ options(digits=2)
 
 
 </details>
-## **Meeting 30/05/2023**
+## **Meeting Dan 30/05/2023**
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
@@ -664,7 +664,7 @@ Basile
 
 
 
-## **Meeting 23/06/2023**
+## **Meeting Dan 23/06/2023**
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
 
@@ -717,7 +717,7 @@ General
 
 </details>
 
-## **Meeting 10/07/2023**
+## **Meeting Dan 10/07/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -768,7 +768,7 @@ Plan experiment stressor
 
 </details>
 
-## **Meeting 15/12/2023**
+## **Meeting Dan 15/12/2023**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -816,7 +816,7 @@ Plan experiment stressor
 
 </details>
 
-## **Meeting 16/08/2024**
+## **Meeting Dan 16/08/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -890,7 +890,7 @@ Plan experiment stressor
 
 </details>
 
-## **Meeting 02/09/2024**
+## **Meeting Dan 02/09/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -963,7 +963,7 @@ Checks??
 
 </details>
 
-## **Meeting 09/09/2024**
+## **Meeting Dan 09/09/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1029,7 +1029,7 @@ How to extract the Methods
 
 </details>
 
-## **Meeting 16/09/2024**
+## **Meeting Dan 16/09/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1096,7 +1096,7 @@ How to extract the Methods
 
 </details>
 
-## **Meeting 23/9/20024**
+## **Meeting Dan 23/9/20024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1165,7 +1165,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 11/11/2024**
+## **Meeting Dan 11/11/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1234,7 +1234,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 18/11/2024**
+## **Meeting Dan 18/11/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1306,7 +1306,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 25/11/2024**
+## **Meeting Dan 25/11/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1384,7 +1384,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 02/12/2024**
+## **Meeting Dan 02/12/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1455,7 +1455,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 09/12/2024**
+## **Meeting Dan 09/12/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1526,7 +1526,7 @@ Associative learning manuscript
 
 
 
-## **Meeting 16/12/2024**
+## **Meeting Dan 16/12/2024**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1599,7 +1599,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 06/01/2025**
+## **Meeting Dan 06/01/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1670,7 +1670,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 13/01/2025**
+## **Meeting Dan 13/01/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1739,7 +1739,7 @@ Associative learning manuscript
 
 </details>
 
-## **Meeting 20/01/2025**
+## **Meeting Dan 20/01/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1807,7 +1807,7 @@ Plans
 
 </details>
 
-## **Meeting 03/02/2025**
+## **Meeting Dan 03/02/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1878,7 +1878,7 @@ Plans
 
 </details>
 
-## **Meeting 17/02/2025**
+## **Meeting Dan 17/02/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -1953,7 +1953,7 @@ Plans
 
 </details>
 
-## **Meeting 24/02/2025**
+## **Meeting Dan 24/02/2025**
 
 <details>
   <summary style=font-siz
@@ -2022,7 +2022,7 @@ Plans
   
 </details>  
 
-## **Meeting 03/03/2025**
+## **Meeting Dan 03/03/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2093,7 +2093,7 @@ Plans
 
 </details>
 
-## **Meeting 11/03/2025**
+## **Meeting Dan 11/03/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2160,7 +2160,7 @@ Plans
 
 </details>
 
-## **Meeting 17/03/2025**
+## **Meeting Dan 17/03/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2224,7 +2224,7 @@ Plans
 
 </details>
 
-## **Meeting 24/03/2025**
+## **Meeting Dan 24/03/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2291,7 +2291,7 @@ Plans
 
 </details>
 
-## **Meeting 31/03/2025**
+## **Meeting Dan 31/03/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2355,7 +2355,7 @@ Plans
 
 </details>
 
-## **Meeting 26/05/2025**
+## **Meeting Dan 26/05/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2420,7 +2420,7 @@ Plans
 
 </details>
 
-## **Meeting 04/06/2025**
+## **Meeting Dan 04/06/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2484,7 +2484,7 @@ Plans
 
 </details>
 
-## **Meeting 10/06/2025**
+## **Meeting Dan 10/06/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2545,7 +2545,7 @@ Plans
 </details>
 
 
-## **Meeting 01/07/2025**
+## **Meeting Dan 01/07/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2608,7 +2608,7 @@ Plans
 
 </details>
 
-## **Meeting 21/07/2025**
+## **Meeting Dan 21/07/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2665,7 +2665,7 @@ Plans
 
 </details>
 
-## **Meeting 28/07/2025**
+## **Meeting Dan 28/07/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2727,7 +2727,7 @@ Plans
 
 </details>
 
-## **Meeting 04/08/2025**
+## **Meeting Dan 04/08/2025**
 
 <details>
   <summary style=font-size:16px>*Things done since last meeting*</summary>
@@ -2756,6 +2756,52 @@ Plans
   + Extract data             
 * **To learn or not to learn**  
   + Finish screening        
+  + Extract data (methods)   
+  + Write  
+ 
+   
+</details>  
+
+</details>
+
+
+</details>
+
+## **Meeting Mike 15/08/2025**
+
+<details>
+  <summary style=font-size:16px>*Things to talk about*</summary>
+
+* Inductions and things to do: e.g. competence certificate        
+* Fieldwork: general ideas (when to start, etc.)     
+* Fielwork: what to do. New experiments?         
+* HDMI cable        
+
+</details>
+
+
+<details>
+
+  <summary style=font-size:16px>*Things to do*</summary>
+
+* **Pair-bonding**
+  + Program fieldwork        
+  + Check data?          
+* **PreyD**
+  + Analyses controlling by mit density
+  + Re-write discussion
+* **CORT and learning meta-analysis**  
+  + Finish data extraction      
+  + Statistical analyses   
+  + Write    
+* **Learning and fitness**
+  + Screening: maximize        
+  + Screening     
+  + Extract data             
+* **To learn or not to learn**  
+  + New query       
+  + Validate      
+  + Screening         
   + Extract data (methods)   
   + Write  
  
