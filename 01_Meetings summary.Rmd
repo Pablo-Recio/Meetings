@@ -2866,6 +2866,35 @@ Participants: Mike Gardner, Ondi Crino, & Pablo Recio
 <details> 
   <summary style=font-size:16px>*Decisions made*</summary>
 
+
+**2025 Research plan**       
+
+Focus on measuring circulating hormones from paired and unpaired animals. Then use the proximity sensors in some pairs and track them during several weeks while we take blood for hormone measurements              
    
    
 </details>
+
+<details>
+
+  <summary style=font-size:16px>*Things to do*</summary>
+
+* **Pair-bonding**
+  + Practice blood        
+  + Check blood sampling protocols Lynea (send email)           
+  + Organise radiotrackeers            
+  + Check proximity sensors and charge          
+* **CORT and learning meta-analysis**  
+  + Finish data extraction      
+  + Statistical analyses       
+  + Write    
+* **To learn or not to learn**  
+  + Screening         
+  + Extract data (methods)      
+  + Write    
+* **Learning and fitness**
+  + Screening: maximize        
+  + Screening     
+  + Extract data  
+   
+</details>  
+
