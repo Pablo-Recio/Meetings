@@ -2823,3 +2823,49 @@ Plans
 
 
 </details>
+
+## **Meeting fieldwork 09/09/2025**
+Participants: Mike Gardner, Ondi Crino, & Pablo Recio         
+
+<details>
+  <summary style=font-size:16px>*Things to talk about*</summary>        
+        
+**Research Plan – Social Neuroendocrinology of Pairing Behaviour**         
+
+  Plan for 2025 (what PR would do):      
+
+  Priority 1: measure circulating levels of MT, dopamine (D), arginine vasotocin (AVT), and corticosterone (CORT).            
+
+  Priority 2: Treat pairs in the wild and record affiliative behaviour: pairs receiving agonists, pairs receiving saline, and pairs receiving antagonists.         
+
+  Priority 3: Bring animals to the laboratory to develop or refine the agonist dosing protocols, as well as pilot tests for measuring brain hormone levels.       
+  
+  Other options: measure affiliative behaviour and hormones in pairs over the field season (together with paired/unpaired hormone levels).            
+  
+  *Full text on PR's computer: Desktop/PROJECTS/WORK_ON/Research Plan 2025.docx*       
+         
+         
+**Specific questions**           
+<ul>
+  <li>How to take blood?
+    <ul>
+      <li>Do I need heparinised syringes and needles or not?</li>
+      <li>Should we freeze samples? If so, cryopreserver?</li>
+      <li>How long could the samples stay frozen?</li>
+    </ul>
+  </li>
+  <li>Do we have ethics for other experiments? E.g.: mate choice after antagonist</li>
+  <li>Do we have the antagonists and the agonists ready?
+    <p><span style="color:darkblue">According to Lynea's email, we have the agonists but not the protocol; we don't have the antagonists, but we have the protocol for them.</span></p>
+  </li>
+</ul>            
+
+</details>
+
+
+<details> 
+  <summary style=font-size:16px>*Decisions made*</summary>
+
+   
+   
+</details>
